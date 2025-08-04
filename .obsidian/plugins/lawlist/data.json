@@ -1,0 +1,16 @@
+{
+  "ol_input": [
+    null,
+    "I.",
+    "AA.",
+    "ii.",
+    "aa."
+  ],
+  "ul_input": [
+    null,
+    "+",
+    "*",
+    "-"
+  ],
+  "loop": true
+}

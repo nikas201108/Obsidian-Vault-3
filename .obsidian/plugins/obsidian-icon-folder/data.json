@@ -1,0 +1,193 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🐍",
+      "LiHash",
+      "LiBookPlus",
+      "LiPi",
+      "LiWrench"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Периметр": {
+    "iconName": "LiGlobe",
+    "iconColor": "#04ff00"
+  },
+  "Архив": {
+    "iconName": "LiArchiveX",
+    "iconColor": "#ff4d00"
+  },
+  "Периметр/География": {
+    "iconName": "LiMap",
+    "iconColor": "#45c45e"
+  },
+  "Периметр/Несортировано": {
+    "iconName": "LiAlertOctagon",
+    "iconColor": "#0af58f"
+  },
+  "Периметр/География/Карты и медиа": "LiImages",
+  "Теги/География Физическая_география Острова.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Теги/География Заповедники.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Теги/География Рекреация.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Вопросы": {
+    "iconName": "LiQuestionMarkGlyph",
+    "iconColor": "#e0f25a"
+  },
+  "Теги/География Физическая_география Проливы.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Периметр/География/Исландия.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#9d7595"
+  },
+  "Теги/Россия Ярославль.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/Россия Золотое_кольцо.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/География Экономическая_география.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/География Население.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/География Политическая_география.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/География Физическая_география Моря.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/География Физическая_география Озёра.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/Политика.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00e9ff"
+  },
+  "Теги/География Физическая_география Климат.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Теги/Суперзаметка.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Теги/Экономика.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Периметр/Флора и фауна": {
+    "iconName": "LiBanana",
+    "iconColor": "#fff705"
+  },
+  "Периметр/Культуры и популяции": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#f04800"
+  },
+  "Периметр/Хозяйство": {
+    "iconName": "LiReceiptRussianRuble",
+    "iconColor": "#408f00"
+  },
+  "Периметр/Политика": {
+    "iconName": "LiBriefcase",
+    "iconColor": "#b11b96"
+  },
+  "Периметр/История": {
+    "iconName": "LiHistory",
+    "iconColor": "#79586b"
+  },
+  "Теги/Биология Флора_и_фауна.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eefa"
+  },
+  "Теги/Политика Территориальное_устройство.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Служебное/Канбан.md": {
+    "iconName": "LiAsteriskSquare",
+    "iconColor": "#c2b3b3"
+  },
+  "Ежедневные заметки": {
+    "iconName": "LiCalendarPlus2",
+    "iconColor": "#009dff"
+  },
+  "Теги": {
+    "iconName": "LiTags",
+    "iconColor": "#df5893"
+  },
+  "Шаблоны": {
+    "iconName": "LiBackpack",
+    "iconColor": "#ffffff"
+  },
+  "КП": "🖥",
+  "Служебное/Инструкция.md": {
+    "iconName": "LiInfo",
+    "iconColor": "#4600eb"
+  },
+  "Инструкции и примеры": "🏗",
+  "Служебное": {
+    "iconName": "LiWrench",
+    "iconColor": "#45d391"
+  },
+  "Периметр/Математика": {
+    "iconName": "LiPi",
+    "iconColor": "#5cf4ff"
+  },
+  "Периметр/Алгебра": {
+    "iconName": "LiBookPlus",
+    "iconColor": "#ff006f"
+  },
+  "Теги/Математика Алгебра Функции Чётность_и_нечётность.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Теги/Математика Эффективные_вычисления.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Периметр/Python": "🐍"
+}

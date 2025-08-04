@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "d5d178350d521541",
+    "type": "split",
+    "children": [
+      {
+        "id": "73783f44a691ad83",
+        "type": "tabs",
+        "dimension": 82.64150943396227,
+        "children": [
+          {
+            "id": "9a0a13fc91ab3665",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Периметр/Алгебра/media/Файлы/Метод неопределенных коэффициентов.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Метод неопределенных коэффициентов"
+            }
+          },
+          {
+            "id": "78f6d1e9e8c0c515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/Python/Enviroments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enviroments"
+            }
+          },
+          {
+            "id": "46f1f48d80116fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/04-08-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-08-2025"
+            }
+          },
+          {
+            "id": "c2fea2d9372cae3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/Алгебра/Представление многочленов используя чётные вспомогательные многочлены.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Представление многочленов используя чётные вспомогательные многочлены"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7a34453dc9d08a08",
+        "type": "tabs",
+        "dimension": 17.358490566037734,
+        "children": [
+          {
+            "id": "e1e6a0ad21bf3700",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "433e0ed4ffa85b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fd150be78c0804c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e2216531841c23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a853b62586a392f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Математический_анализ/Интегрирование",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5
+  },
+  "right": {
+    "id": "3edd76f513359394",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c6fa4bd40b4142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58cbc9466951e2ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "КП-ФИЗ-ЧСС-К.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для КП-ФИЗ-ЧСС-К"
+            }
+          },
+          {
+            "id": "f5dc33d4f13a5bdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "1d45a72c49d80658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8adf0b44e64ff245",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Периметр/Python/Enviroments.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Enviroments"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "workspaces:Пространства": false
+    }
+  },
+  "active": "78f6d1e9e8c0c515",
+  "lastOpenFiles": [
+    "Obsidian-Vault-3--reformated-",
+    "Служебное/Канбан.md",
+    "Периметр/Python/Enviroments.md",
+    "Периметр/Python",
+    "Служебное/Инструкция.md",
+    "Периметр/Алгебра/media/Файлы/Метод неопределенных коэффициентов.pdf",
+    "Периметр/Алгебра/Представление многочленов используя чётные вспомогательные многочлены.md",
+    "Ежедневные заметки/04-08-2025.md",
+    "Периметр/Алгебра/Метод неопределенных коэффициентов.md",
+    "Периметр/Алгебра/Представление функций как суммы чётных и нечётных состовляющих.md",
+    "Периметр/Алгебра/Способы представления многочленов.md",
+    "Периметр/Алгебра/media/Файлы/Разбиение многочлена на чётные вспомогательные.pdf",
+    "Математика Математический_анализ Интегрирование.md",
+    "Служебное/Принципы создания заметок.md",
+    "КП/КП-ФИЗ-ВЕС.md",
+    "КП/КП-ФИЗ-СОН.md",
+    "КП/КП-ФИЗ-ШАГ.md",
+    "КП/КП-ФИЗ-КМ.md",
+    "КП/КП-ФИЗ-ЧСС-К.md",
+    "КП/КП-ФИЗ-СЛАД.md",
+    "КП/КП-ФИЗ-АКТ.md",
+    "Ежедневные заметки/02-08-2025.md",
+    "Периметр/Экзамены/ЕГЭ Информатика/Задание 20.md",
+    "Периметр/Экзамены/ЕГЭ Информатика/Задание 17.md",
+    "Периметр/Экзамены/ЕГЭ Информатика/Задание 23.md",
+    "КП/КП-ФИЗ-ТРЕН.md",
+    "Ежедневные заметки/01-08-2025.md",
+    "Периметр/География/Финляндия.md",
+    "Теги/Математика Эффективные_вычисления.md",
+    "Периметр/Алгебра/media/Файлы",
+    "Периметр/Алгебра/media",
+    "Периметр/Алгебра/media/Файлы/Представление функции через сумму чётной и нечётной.pdf",
+    "Периметр/Алгебра",
+    "Периметр/Флора и фауна/Медиа/Растительный и животный мир Исландии — медиа 1.png",
+    "Вопросы/Политика",
+    "Периметр/История/Media/ИВМВ — стратегическая оборона советских вооруженных сил в июле–сентябре 1941 года.png",
+    "Периметр/История/Media/Таллин — Кронштадт. Морская карта. Таллинский перход.png",
+    "Периметр/История/Media/Альбрехт фон Валленштайн.png",
+    "Периметр/История/Media/Джузеппе Гарибальди — медиа 1.png",
+    "Периметр/История/Media/Генри Гюнтер — медиа 1.png",
+    "Периметр/Политика/Медиа",
+    "Периметр/Политика",
+    "Периметр/Хозяйство/Медиа/Хозяйство Исландии — карты 1.png",
+    "Периметр/Флора и фауна/Медиа/Растительный и животный мир Исландии — медиа 4.png",
+    "Периметр/История/Media/Правительство Исландии — медиа 1.png",
+    "Pasted image 20250730185034.png"
+  ]
+}

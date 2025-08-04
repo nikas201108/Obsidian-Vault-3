@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Goodnotes": "checkbox",
+    "Вес": "number",
+    "Сон": "text",
+    "Вкусняшки": "checkbox",
+    "ЧСС": "text",
+    "Калории": "number",
+    "Километры": "number",
+    "Ключевые слова": "multitext",
+    "Дневная активность": "number",
+    "Шаги": "number",
+    "Отжимания": "number",
+    "Приседания": "number",
+    "Планка": "number",
+    "Подъем ног лежа": "number",
+    "Пресс": "number",
+    "Выпады": "number",
+    "Источники": "multitext"
+  }
+}

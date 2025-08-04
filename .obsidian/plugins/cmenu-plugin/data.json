@@ -1,0 +1,45 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "highlightr-plugin:Green",
+      "name": "Highlightr: Green",
+      "icon": "highlightr-pen-green"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "editor:insert-mathblock",
+      "name": "Вставить блок для математических выражений",
+      "icon": "lucide-sigma-square"
+    },
+    {
+      "id": "automatic-table-of-contents:insert-automatic-table-of-contents",
+      "name": "Automatic Table Of Contents: Insert table of contents",
+      "icon": "double-up-arrow-glyph"
+    },
+    {
+      "id": "insert-template",
+      "name": "Шаблоны: Вставить шаблон",
+      "icon": "lucide-copy"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 7
+}
