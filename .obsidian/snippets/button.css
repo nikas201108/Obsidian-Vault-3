@@ -2,10 +2,14 @@
 	background-color: #783F8E;
 	position: absolute;
 	right: 180px;
+	padding: 0px 30px;
+	margin: 10px;
 }
 
 .mb-button.dark-mode > button {
 	background-color: #2E4057;
 	position: absolute;
-	right: 90px;
+	right: 65px;
+	padding: 0px 30px;
+	margin: 10px;
 }
