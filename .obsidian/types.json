@@ -19,6 +19,8 @@
     "Подъем ног лежа": "number",
     "Пресс": "number",
     "Выпады": "number",
-    "Источники": "multitext"
+    "Источники": "multitext",
+    "book_completed": "text",
+    "status": "text"
   }
 }

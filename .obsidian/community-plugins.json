@@ -11,8 +11,12 @@
   "obsidian-kanban",
   "highlightr-plugin",
   "automatic-table-of-contents",
-  "obsidian-image-toolkit",
   "obsidian-tracker",
   "spoiler-block-obsidian",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "callout-manager",
+  "obsidian-banners",
+  "dataview",
+  "obsidian-meta-bind-plugin",
+  "js-engine"
 ]

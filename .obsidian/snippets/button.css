@@ -1,0 +1,11 @@
+.mb-button.light-mode > button {
+	background-color: #783F8E;
+	position: absolute;
+	right: 180px;
+}
+
+.mb-button.dark-mode > button {
+	background-color: #2E4057;
+	position: absolute;
+	right: 90px;
+}

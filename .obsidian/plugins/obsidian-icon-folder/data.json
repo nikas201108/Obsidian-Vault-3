@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🐍",
-      "LiHash",
-      "LiBookPlus",
-      "LiPi",
-      "LiWrench"
+      "LiBadgeInfo",
+      "LiFunctionSquare",
+      "LiTable",
+      "LiALargeSmall",
+      "LiBuilding2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -189,5 +189,25 @@
     "iconName": "LiHash",
     "iconColor": "#00eeff"
   },
-  "Периметр/Python": "🐍"
+  "Периметр/Python": "🐍",
+  "Периметр/Структуры (Программирование)": {
+    "iconName": "LiBuilding2",
+    "iconColor": "#5cd6ff"
+  },
+  "Периметр/Программирование общее": {
+    "iconName": "LiALargeSmall",
+    "iconColor": "#45e331"
+  },
+  "Периметр/Линейная алгебра": {
+    "iconName": "LiTable",
+    "iconColor": "#e1a6f2"
+  },
+  "Инструкции и примеры/Инструкции/Математика/Представление функций и многочленов удобным способом.md": {
+    "iconName": "LiFunctionSquare",
+    "iconColor": "#3cfbdb"
+  },
+  "Инструкции и примеры/Инструкции": {
+    "iconName": "LiBadgeInfo",
+    "iconColor": "#ceedfd"
+  }
 }

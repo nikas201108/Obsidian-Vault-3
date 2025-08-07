@@ -1,0 +1,116 @@
+{
+  "callouts": {
+    "custom": [
+      "term",
+      "general-aims",
+      "physical",
+      "train",
+      "activity",
+      "running",
+      "sweet",
+      "sleep",
+      "steps",
+      "weight"
+    ],
+    "settings": {
+      "term": [
+        {
+          "changes": {
+            "icon": "lucide-book",
+            "color": "68, 207, 110"
+          }
+        }
+      ],
+      "general-aims": [
+        {
+          "changes": {
+            "icon": "lucide-album"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "208, 181, 48"
+          }
+        }
+      ],
+      "physical": [
+        {
+          "changes": {
+            "icon": "lucide-battery-charging",
+            "color": "152, 166, 212"
+          }
+        }
+      ],
+      "train": [
+        {
+          "changes": {
+            "icon": "lucide-activity",
+            "color": "130, 151, 181"
+          }
+        }
+      ],
+      "activity": [
+        {
+          "changes": {
+            "icon": "lucide-activity-square",
+            "color": "25, 114, 120"
+          }
+        }
+      ],
+      "running": [
+        {
+          "changes": {
+            "icon": "lucide-weight",
+            "color": "152, 166, 212"
+          }
+        }
+      ],
+      "sweet": [
+        {
+          "changes": {
+            "icon": "remix-Cake2Fill",
+            "color": "132, 220, 198"
+          }
+        }
+      ],
+      "sleep": [
+        {
+          "changes": {
+            "icon": "lucide-bed-double",
+            "color": "227, 216, 241"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "changes": {
+            "icon": "remix-FootprintLine",
+            "color": "162, 151, 170"
+          }
+        }
+      ],
+      "weight": [
+        {
+          "changes": {
+            "icon": "lucide-scale",
+            "color": "157, 128, 142"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

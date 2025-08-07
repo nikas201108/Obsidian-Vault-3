@@ -1,0 +1,19 @@
+body {
+ --banner-gap: 5px;
+}
+
+/* Удалить метаданные */
+.markdown-preview-view:has(.obsidian-banner-wrapper) {
+ --metadata-display-reading: none;
+}
+
+/* Удалить заголовок */
+.markdown-preview-view:has(.obsidian-banner-wrapper) .inline-title {
+ display: none;
+}
+
+/* Отрегулируйте высоту с учетом полей файла */
+.markdown-preview-view:has(.obsidian-banner-wrapper) .obsidian-banner-wrapper {
+ font-size: 0;
+ margin-top: calc(var(--banner-height) - var(--file-margins) + var(--banner-gap));
+}
