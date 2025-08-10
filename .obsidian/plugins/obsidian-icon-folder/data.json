@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiIdCard",
       "LiBadgeInfo",
       "LiFunctionSquare",
       "LiTable",
-      "LiALargeSmall",
-      "LiBuilding2"
+      "LiALargeSmall"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -209,5 +209,9 @@
   "Инструкции и примеры/Инструкции": {
     "iconName": "LiBadgeInfo",
     "iconColor": "#ceedfd"
+  },
+  "Люди": {
+    "iconName": "LiIdCard",
+    "iconColor": "#3ab2d9"
   }
 }
