@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiIdCard",
-      "LiBadgeInfo",
-      "LiFunctionSquare",
-      "LiTable",
-      "LiALargeSmall"
+      "LiHash",
+      "LiMail",
+      "LiSquareX",
+      "LiTriangleRight",
+      "LiIdCard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -147,10 +147,6 @@
     "iconName": "LiHash",
     "iconColor": "#00eeff"
   },
-  "Служебное/Канбан.md": {
-    "iconName": "LiAsteriskSquare",
-    "iconColor": "#c2b3b3"
-  },
   "Ежедневные заметки": {
     "iconName": "LiCalendarPlus2",
     "iconColor": "#009dff"
@@ -213,5 +209,30 @@
   "Люди": {
     "iconName": "LiIdCard",
     "iconColor": "#3ab2d9"
+  },
+  "Периметр/Геометрия": "LiTriangleRight",
+  "Периметр/Геометрия/Задания": {
+    "iconName": "LiSquareX",
+    "iconColor": "#3e98f9"
+  },
+  "Канбан.md": {
+    "iconName": "LiAsteriskSquare",
+    "iconColor": "#c2b3b3"
+  },
+  "ТС": {
+    "iconName": "LiMail",
+    "iconColor": "#df49da"
+  },
+  "Теги/Программирование Языки Внутренняя_реализация.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Теги/Математика Математический_анализ Интегрирование.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
+  },
+  "Теги/Программирование Инструменты Регулярные_выражения.md": {
+    "iconName": "LiHash",
+    "iconColor": "#00eeff"
   }
 }
