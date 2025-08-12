@@ -4,12 +4,17 @@
       "type": "local",
       "color": "hsl(calc(0 - 1), calc(66% * 1.01), calc(40% * 1.075))",
       "directory": "/"
+    },
+    {
+      "type": "local",
+      "color": "#6392c5",
+      "directory": "Архив/Календарь"
     }
   ],
   "defaultCalendar": 0,
   "firstDay": 1,
   "initialView": {
-    "desktop": "timeGridWeek",
+    "desktop": "timeGridDay",
     "mobile": "timeGrid3Days"
   },
   "timeFormat24h": true

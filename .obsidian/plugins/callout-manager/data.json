@@ -10,7 +10,9 @@
       "sweet",
       "sleep",
       "steps",
-      "weight"
+      "weight",
+      "theorem",
+      "proof"
     ],
     "settings": {
       "term": [
@@ -103,6 +105,22 @@
           "changes": {
             "icon": "lucide-scale",
             "color": "157, 128, 142"
+          }
+        }
+      ],
+      "theorem": [
+        {
+          "changes": {
+            "icon": "lucide-brain",
+            "color": "55, 255, 0"
+          }
+        }
+      ],
+      "proof": [
+        {
+          "changes": {
+            "icon": "remix-MarkupLine",
+            "color": "254, 145, 22"
           }
         }
       ]

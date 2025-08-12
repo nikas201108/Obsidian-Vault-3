@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiProjector",
+      "LiCircle",
       "LiHash",
       "LiMail",
-      "LiSquareX",
-      "LiTriangleRight",
-      "LiIdCard"
+      "LiSquareX"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -234,5 +234,13 @@
   "Теги/Программирование Инструменты Регулярные_выражения.md": {
     "iconName": "LiHash",
     "iconColor": "#00eeff"
+  },
+  "Инструкции и примеры/Инструкции/Математика/Все тригонометрические формулы.md": {
+    "iconName": "LiCircle",
+    "iconColor": "#a31f1f"
+  },
+  "Периметр/Методы доказательства": {
+    "iconName": "LiProjector",
+    "iconColor": "#ffffff"
   }
 }
