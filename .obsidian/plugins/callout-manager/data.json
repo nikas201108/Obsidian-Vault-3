@@ -12,7 +12,10 @@
       "steps",
       "weight",
       "theorem",
-      "proof"
+      "proof",
+      "properties",
+      "point",
+      "code"
     ],
     "settings": {
       "term": [
@@ -121,6 +124,30 @@
           "changes": {
             "icon": "remix-MarkupLine",
             "color": "254, 145, 22"
+          }
+        }
+      ],
+      "properties": [
+        {
+          "changes": {
+            "icon": "lucide-list-plus",
+            "color": "255, 10, 247"
+          }
+        }
+      ],
+      "point": [
+        {
+          "changes": {
+            "icon": "remix-SendPlane2Line",
+            "color": "151, 66, 255"
+          }
+        }
+      ],
+      "code": [
+        {
+          "changes": {
+            "icon": "remix-TerminalLine",
+            "color": "161, 106, 73"
           }
         }
       ]

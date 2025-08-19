@@ -3,11 +3,15 @@
 		{"id":"783cedc66654619d","type":"file","file":"ТС/10-08-25.md","x":-420,"y":-120,"width":420,"height":220},
 		{"id":"39d7726dae8475e9","type":"text","text":"Вписанный прямой угол","x":-40,"y":-320,"width":393,"height":60,"color":"3"},
 		{"id":"f260c459f317ec28","type":"text","text":"Информация о Семёне","x":-40,"y":280,"width":393,"height":60,"color":"2"},
-		{"id":"47c8fd1811cd0fc2","type":"file","file":"ТС/11-08-25.md","x":353,"y":-180,"width":400,"height":400}
+		{"id":"47c8fd1811cd0fc2","type":"file","file":"ТС/11-08-25.md","x":353,"y":-180,"width":400,"height":400},
+		{"id":"94ce28ef058ab0c4","x":1200,"y":-260,"width":400,"height":400,"type":"file","file":"ТС/12-08-25.md"},
+		{"id":"a5b710a15a96c9fb","x":1720,"y":-560,"width":250,"height":50,"color":"#db0f0f","type":"text","text":"Олимпиадный курс"}
 	],
 	"edges":[
 		{"id":"579c00e3b0e665d7","fromNode":"783cedc66654619d","fromSide":"top","toNode":"39d7726dae8475e9","toSide":"left","color":"3"},
 		{"id":"2a28c263ed4810cb","fromNode":"783cedc66654619d","fromSide":"bottom","toNode":"f260c459f317ec28","toSide":"left","color":"2"},
-		{"id":"08322ab4a91681ef","fromNode":"783cedc66654619d","fromSide":"right","toNode":"47c8fd1811cd0fc2","toSide":"left"}
+		{"id":"08322ab4a91681ef","fromNode":"783cedc66654619d","fromSide":"right","toNode":"47c8fd1811cd0fc2","toSide":"left"},
+		{"id":"b14d64686b77aad6","fromNode":"47c8fd1811cd0fc2","fromSide":"right","toNode":"94ce28ef058ab0c4","toSide":"left"},
+		{"id":"1ed09bc4a09f754d","fromNode":"94ce28ef058ab0c4","fromSide":"top","toNode":"a5b710a15a96c9fb","toSide":"left"}
 	]
 }

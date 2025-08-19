@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFireExtinguisher",
+      "LiTestTube",
       "LiProjector",
       "LiCircle",
-      "LiHash",
-      "LiMail",
-      "LiSquareX"
+      "LiHash"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -242,5 +242,13 @@
   "Периметр/Методы доказательства": {
     "iconName": "LiProjector",
     "iconColor": "#ffffff"
+  },
+  "Периметр/Экзамены": {
+    "iconName": "LiTestTube",
+    "iconColor": "#7898f7"
+  },
+  "Периметр/Алгоритмы": {
+    "iconName": "LiFireExtinguisher",
+    "iconColor": "#95ff80"
   }
 }

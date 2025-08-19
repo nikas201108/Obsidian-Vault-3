@@ -21,6 +21,7 @@
     "Выпады": "number",
     "Источники": "multitext",
     "book_completed": "text",
-    "status": "text"
+    "status": "text",
+    "Выходной": "checkbox"
   }
 }
