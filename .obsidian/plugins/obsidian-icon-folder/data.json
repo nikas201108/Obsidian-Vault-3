@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPresentation",
-      "LiFireExtinguisher",
-      "LiTestTube",
-      "LiProjector",
-      "LiCircle"
+      "LiStepForward",
+      "🐍",
+      "LiBuilding2",
+      "LiCode",
+      "LiPaintBucket"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,23 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Периметр": {
-    "iconName": "LiGlobe",
-    "iconColor": "#04ff00"
-  },
   "Архив": {
     "iconName": "LiArchiveX",
     "iconColor": "#ff4d00"
   },
-  "Периметр/География": {
-    "iconName": "LiMap",
-    "iconColor": "#45c45e"
-  },
-  "Периметр/Несортировано": {
-    "iconName": "LiAlertOctagon",
-    "iconColor": "#0af58f"
-  },
-  "Периметр/География/Карты и медиа": "LiImages",
   "Теги/География Физическая_география Острова.md": {
     "iconName": "LiHash",
     "iconColor": "#00eeff"
@@ -70,10 +57,6 @@
   "Теги/География Физическая_география Проливы.md": {
     "iconName": "LiHash",
     "iconColor": "#00eeff"
-  },
-  "Периметр/География/Исландия.md": {
-    "iconName": "LiAtom",
-    "iconColor": "#9d7595"
   },
   "Теги/Россия Ярославль.md": {
     "iconName": "LiHash",
@@ -119,26 +102,6 @@
     "iconName": "LiHash",
     "iconColor": "#00eeff"
   },
-  "Периметр/Флора и фауна": {
-    "iconName": "LiBanana",
-    "iconColor": "#fff705"
-  },
-  "Периметр/Культуры и популяции": {
-    "iconName": "LiPersonStanding",
-    "iconColor": "#f04800"
-  },
-  "Периметр/Хозяйство": {
-    "iconName": "LiReceiptRussianRuble",
-    "iconColor": "#408f00"
-  },
-  "Периметр/Политика": {
-    "iconName": "LiBriefcase",
-    "iconColor": "#b11b96"
-  },
-  "Периметр/История": {
-    "iconName": "LiHistory",
-    "iconColor": "#79586b"
-  },
   "Теги/Биология Флора_и_фауна.md": {
     "iconName": "LiHash",
     "iconColor": "#00eefa"
@@ -169,14 +132,6 @@
     "iconName": "LiWrench",
     "iconColor": "#45d391"
   },
-  "Периметр/Математика": {
-    "iconName": "LiPi",
-    "iconColor": "#5cf4ff"
-  },
-  "Периметр/Алгебра": {
-    "iconName": "LiBookPlus",
-    "iconColor": "#ff006f"
-  },
   "Теги/Математика Алгебра Функции Чётность_и_нечётность.md": {
     "iconName": "LiHash",
     "iconColor": "#00eeff"
@@ -184,19 +139,6 @@
   "Теги/Математика Эффективные_вычисления.md": {
     "iconName": "LiHash",
     "iconColor": "#00eeff"
-  },
-  "Периметр/Python": "🐍",
-  "Периметр/Структуры (Программирование)": {
-    "iconName": "LiBuilding2",
-    "iconColor": "#5cd6ff"
-  },
-  "Периметр/Программирование общее": {
-    "iconName": "LiALargeSmall",
-    "iconColor": "#45e331"
-  },
-  "Периметр/Линейная алгебра": {
-    "iconName": "LiTable",
-    "iconColor": "#e1a6f2"
   },
   "Инструкции и примеры/Инструкции/Математика/Представление функций и многочленов удобным способом.md": {
     "iconName": "LiFunctionSquare",
@@ -209,11 +151,6 @@
   "Люди": {
     "iconName": "LiIdCard",
     "iconColor": "#3ab2d9"
-  },
-  "Периметр/Геометрия": "LiTriangleRight",
-  "Периметр/Геометрия/Задания": {
-    "iconName": "LiSquareX",
-    "iconColor": "#3e98f9"
   },
   "Канбан.md": {
     "iconName": "LiAsteriskSquare",
@@ -239,20 +176,65 @@
     "iconName": "LiCircle",
     "iconColor": "#a31f1f"
   },
-  "Периметр/Методы доказательства": {
-    "iconName": "LiProjector",
-    "iconColor": "#ffffff"
+  "Периметр": {
+    "iconName": "LiEarth",
+    "iconColor": "#66ff00"
   },
-  "Периметр/Экзамены": {
-    "iconName": "LiTestTube",
-    "iconColor": "#7898f7"
+  "Периметр/Несортировано": {
+    "iconName": "LiAlertTriangle",
+    "iconColor": "#ff4242"
   },
-  "Периметр/Алгоритмы": {
-    "iconName": "LiFireExtinguisher",
-    "iconColor": "#95ff80"
+  "Периметр/Алгебра": {
+    "iconName": "LiX",
+    "iconColor": "#d1a3ff"
+  },
+  "Периметр/Линейная алгебра": {
+    "iconName": "LiTable",
+    "iconColor": "#02c570"
   },
   "Периметр/Теория вероятностей и статистика": {
-    "iconName": "LiPresentation",
-    "iconColor": "#4f7613"
+    "iconName": "LiDice",
+    "iconColor": "#baff24"
+  },
+  "Периметр/Методы доказательства": {
+    "iconName": "LiScale",
+    "iconColor": "#24abff"
+  },
+  "Периметр/Геометрия": {
+    "iconName": "LiTriangleRight",
+    "iconColor": "#ff00bb"
+  },
+  "Периметр/География": {
+    "iconName": "LiMountain",
+    "iconColor": "#ecbd3c"
+  },
+  "Периметр/Флора и фауна": {
+    "iconName": "LiRabbit",
+    "iconColor": "#52ffd4"
+  },
+  "Периметр/История": {
+    "iconName": "LiBookA",
+    "iconColor": "#ec5818"
+  },
+  "Периметр/Политика": {
+    "iconName": "LiCrown",
+    "iconColor": "#73ff00"
+  },
+  "Периметр/Культуры и популяции": {
+    "iconName": "LiPaintBucket",
+    "iconColor": "#b390f3"
+  },
+  "Периметр/Программирование общее": {
+    "iconName": "LiCode",
+    "iconColor": "#ffffff"
+  },
+  "Периметр/Структуры (Программирование)": {
+    "iconName": "LiBuilding2",
+    "iconColor": "#755e78"
+  },
+  "Периметр/Python": "🐍",
+  "Периметр/Алгоритмы": {
+    "iconName": "LiStepForward",
+    "iconColor": "#766b6b"
   }
 }
