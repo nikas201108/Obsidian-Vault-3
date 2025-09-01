@@ -1,0 +1,370 @@
+{
+  "main": {
+    "id": "ebdf2260636f5a1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b74d646463e0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0641b4b6e6ff8975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/Inversion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inversion"
+            }
+          },
+          {
+            "id": "c1c40290960c935e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/in, on, at.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "in, on, at"
+            }
+          },
+          {
+            "id": "e724f1922b57f5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/Had Better and Would rather.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Had Better and Would rather"
+            }
+          },
+          {
+            "id": "ba340828c39f7766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Перевод текстов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перевод текстов"
+            }
+          },
+          {
+            "id": "453b87de174675a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/--- WORDS TEMPORARY --- Bitter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "--- WORDS TEMPORARY --- Bitter"
+            }
+          },
+          {
+            "id": "17cd4af47afb69ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/Plural and singular form of nouns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plural and singular form of nouns"
+            }
+          },
+          {
+            "id": "8eaa6211a7d1c9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Перевод текстов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перевод текстов"
+            }
+          },
+          {
+            "id": "5aa8ea8931314fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Перевод текстов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перевод текстов"
+            }
+          },
+          {
+            "id": "38fe228f2f1729a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/Causative.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Causative"
+            }
+          },
+          {
+            "id": "16bd10c3769db3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Перевод текстов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перевод текстов"
+            }
+          },
+          {
+            "id": "aeec32754a63b868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/Вводные слова.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вводные слова"
+            }
+          },
+          {
+            "id": "fb6a6fcc077043ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Перевод текстов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перевод текстов"
+            }
+          },
+          {
+            "id": "8f291da38b479f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Правила/Вводные слова.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вводные слова"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9d5dacfd03b9988",
+    "type": "split",
+    "children": [
+      {
+        "id": "2465b3d78c1fc5e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3402cacb500c4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "72eead6632343d96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:Правила  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8eecf118cfdefe8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "f99a4added0acc2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed43d71735418900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5db48fea4d83a6da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Правила/Альтернативные способы выражения будущих действий.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Альтернативные способы выражения будущих действий"
+            }
+          },
+          {
+            "id": "b015f5e4fe29df17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Правила/Альтернативные способы выражения будущих действий.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Альтернативные способы выражения будущих действий"
+            }
+          },
+          {
+            "id": "e2bb24c43d655fcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "52bc84809259ff88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Правила/Альтернативные способы выражения будущих действий.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Альтернативные способы выражения будущих действий"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "8f291da38b479f99",
+  "lastOpenFiles": [
+    "Перевод текстов.md",
+    "Очередь слов.md",
+    "Слова для повторения/Differences in words usage.md",
+    "Слова для повторения/Formal-Neutral-Informal english words.md",
+    "Слова для повторения/Фразовые глаголы.md",
+    "Механизм.md",
+    "Conservation.md",
+    "Grammar «tricks».md",
+    "I have but one.md",
+    "Разница между offer, suggest и propose.md",
+    "Правила/Articles.md",
+    "Правила/Слова с подвохом в сравнительной степени.md",
+    "Правила/Inversion.md",
+    "Правила/Вводные слова.md",
+    "2025-07-04.md",
+    "Правила/Participle clauses.md",
+    "Правила/Future.md",
+    "Правила/Causative.md",
+    "Правила/in, on, at.md",
+    "Правила/Conditionals.md",
+    "Правила/Infinitives.md",
+    "Правила/Альтернативные способы выражения будущих действий.md",
+    "2025-06-22.md",
+    "Правила/Plural and singular form of nouns.md",
+    "Правила/Different meanings of good and bad.md",
+    "Правила/Comparative.md",
+    "Media/Pasted image 20240713114133.png",
+    "Media",
+    "Слова для повторения",
+    "Правила"
+  ]
+}

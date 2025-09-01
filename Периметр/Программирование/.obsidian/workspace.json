@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "f07ae672e7809c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e688f71fafe3576a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "334bdffe73d53bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Функция zip (Python).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Функция zip (Python)"
+            }
+          },
+          {
+            "id": "e1bd1f01c92d8969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powershell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Powershell"
+            }
+          },
+          {
+            "id": "bbe5d73bc41b9639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задачи/Классификация цвета по RGB-коду.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Классификация цвета по RGB-коду"
+            }
+          },
+          {
+            "id": "4bcde5a8ba9177ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Метод format (Python) и в целом форматировании строк.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метод format (Python) и в целом форматировании строк"
+            }
+          },
+          {
+            "id": "680a72134d7fda26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/re.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "re"
+            }
+          },
+          {
+            "id": "f640dfc4f46338b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Метод format (Python) и в целом форматировании строк.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метод format (Python) и в целом форматировании строк"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3ad16995d2050c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac7c0a66e8419dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f27a2124661190d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "dcf4b7c2460dee73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Задача про пирамиду нечётных чисел",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b2326c8c321c171f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "181e2cb8051e4bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4660d974e33a7ab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2819536027c4929b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Задачи/Range Extraction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Range Extraction"
+            }
+          },
+          {
+            "id": "1d1efbaa629ee6f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Задачи/Range Extraction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Range Extraction"
+            }
+          },
+          {
+            "id": "c28394fed258007c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "51f4858189b79e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Задачи/Range Extraction.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Range Extraction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f640dfc4f46338b4",
+  "lastOpenFiles": [
+    "2025-07-18.md",
+    "Python/Метод format (Python) и в целом форматировании строк.md",
+    "Python/Метод join (Python).md",
+    "Python/Функция groupby (Python).md",
+    "Python/Функция product (Python).md",
+    "Python/iter и next (Python).md",
+    "Python/Функция zip (Python).md",
+    "Python/Функция takewhile (Python).md",
+    "Python/Функция reduce (Python).md",
+    "Python/re.md",
+    "Алгоритм Евклида и продвинутый алгоритм Евклида.md",
+    "Побитовые операции.md",
+    "Множество.md",
+    "Материал на будущее.md",
+    "Кластеризация.md",
+    "Задачи/Задача „Snail“.md",
+    "Задачи/Задача про пирамиду нечётных чисел.md",
+    "Шаблоны/Задача.md",
+    "Школьная информатика/Информация.md",
+    "excel/Горячие клавиши.md",
+    "Media/Алгоритмы для k ближайших. Меры расстояния— медиа 2.png",
+    "Media/EAN — медиа 2.png",
+    "Media/EAN — медиа 1.png",
+    "Media/Графы — медиа 3.png",
+    "Media/Алгоритмы для k ближайших. Меры расстояния— медиа 3.png",
+    "Media/Алгоритмы для k ближайших. Меры расстояния— медиа 1.png",
+    "EAN.md",
+    "Powershell.md",
+    "Графы.md",
+    "Алгоритмы для k ближайших. Меры расстояния.md",
+    "Pasted image 20250507212200.png",
+    "Алгоритм Евклида и продвинутый алгоритм Евклида.pdf",
+    "Задачи/Расстояние Хэмминга.md",
+    "Задачи/Класс, содержащий функции.md",
+    "Media/EAN — медиа 2 1.png",
+    "Media/Графы — медиа 2.png",
+    "Media/Графы — медиа 1.png",
+    "Школьная информатика",
+    "Media/Прогрессия нечётных чисел.pdf",
+    "Без названия.canvas",
+    "Шаблоны",
+    "Media",
+    "Python",
+    "Задачи"
+  ]
+}

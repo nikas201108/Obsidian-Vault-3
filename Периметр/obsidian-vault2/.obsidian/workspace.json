@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "e3478ea03ed56497",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d635e39457959bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73aca576c01885dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Каждый день/2025-07-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df618dac37d0cd3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ccbad64b02c8d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dadd97179d13a44e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "decaabd31cdc1359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "typing",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "3fa81837d79f8928",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "1ec15b253105b410",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a6fb21bbbe428e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d0b54c21db94fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Каждый день/2025-07-25.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2025-07-25"
+            }
+          },
+          {
+            "id": "41895fc8ef85dedf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Шаблоны/Отчёт (III).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Отчёт (III)"
+            }
+          },
+          {
+            "id": "c3e40daed14e9566",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "fbbd9bcd0c6b2802",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Шаблоны/Отчёт (III).md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Отчёт (III)"
+            }
+          },
+          {
+            "id": "c1166a5475159a62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "templates:Вставить шаблон": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "command-palette:Открыть палитру команд": false,
+      "canvas:Создать новый холст": false,
+      "notion-like-tables:Create new loom": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "73aca576c01885dc",
+  "lastOpenFiles": [
+    "Каждый день/2025-07-24.md",
+    "Каждый день/2025-07-25.md",
+    "Архив/2025-07-21.md",
+    "Архив/2025-07-18.md",
+    "Архив/2025-07-17.md",
+    "Архив/2025-07-15.md",
+    "Архив/2025-07-16.md",
+    "Библиотека typing.md",
+    "Без названия.md",
+    "Архив/2025-07-14.md",
+    "Архив/2025-07-10.md",
+    "Архив/2025-07-07.md",
+    "Архив/2025-07-08.md",
+    "Архив/2025-07-09.md",
+    "Шаблоны/Шаблон на лето.md",
+    "Шаблоны/Шаблон для книг.md",
+    "Vim.md",
+    "Архив/2025-07-04.md",
+    "Каждый день/ПЛАН ДО КОНЦА ВЕСНЫ.md",
+    "Архив/2025-07-03.md",
+    "Архив/2025-06-24.md",
+    "Архив/2025-06-25.md",
+    "Архив/2025-06-26.md",
+    "Архив/2025-06-29.md",
+    "Архив/2025-06-30.md",
+    "Архив/2025-07-02.md",
+    "Без названия.canvas",
+    "Media/Формулы LaTex — медиа 2.png",
+    "Таблицы/Таблица производственных возможностей.loom",
+    "Media/Pasted image 20250202183937.png",
+    "Media/Формулы LaTex — медиа 3.png",
+    "Media/Радианы — медиа 1.png",
+    "Media/Магические методы(Dunder-методы) — медиа 2.png.png",
+    "Media/Pasted image 20240520154937.png",
+    "Архив",
+    "Untitled.loom",
+    "Media/Pasted image 20250202182916.png",
+    "Media/Pasted image 20250202182919.png",
+    "Media/Pasted image 20250202194208.png",
+    "Media/Pasted image 20250202194314.png",
+    "Media/Без названия",
+    "Задачи",
+    "Media/Закон возрастающих альтернативных издержек —медиа1.png~RF4a20f997.TMP",
+    "Media/~акон возрастающих альтернативных издержек —медиа1.tmp",
+    "Media/Закон возрастающих альтернативных издержек — медиа1 1.jfif",
+    "Media/Закон возрастающих альтернативных издержек — медиа1.jfif",
+    "Закон возрастающих альтернативных издержек — медиа1.jfif",
+    "Python/Без названия.canvas"
+  ]
+}

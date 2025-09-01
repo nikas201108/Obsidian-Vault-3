@@ -1,0 +1,1 @@
+Distribution that is combination a kernel and other software, which forms system.

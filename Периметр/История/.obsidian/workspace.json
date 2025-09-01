@@ -1,0 +1,435 @@
+{
+  "main": {
+    "id": "7de34bdf011795e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d5e76e82190b0ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e2ad05445f6fa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Альбрехт фон Валленштейн.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Альбрехт фон Валленштейн"
+            }
+          },
+          {
+            "id": "96bcf18f6a1759e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Виват история.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Виват история"
+            }
+          },
+          {
+            "id": "b62f6cfabebbcfaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Русский экспедиционный корпус.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Русский экспедиционный корпус"
+            }
+          },
+          {
+            "id": "3d1a19445909894a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Феодальная раздробленность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Феодальная раздробленность"
+            }
+          },
+          {
+            "id": "2838887d195c8fb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Феодальная раздробленность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Феодальная раздробленность"
+            }
+          },
+          {
+            "id": "89e7f4e8f6fad952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интересные даты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интересные даты"
+            }
+          },
+          {
+            "id": "3b550a49933ecc72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Альбрехт фон Валленштейн.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Альбрехт фон Валленштейн"
+            }
+          },
+          {
+            "id": "2c3afe1335488a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Восточное Локарно Феликса Циеленса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Восточное Локарно Феликса Циеленса"
+            }
+          },
+          {
+            "id": "4a4aea17e47be4b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сегрегация в США.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сегрегация в США"
+            }
+          },
+          {
+            "id": "8ed1b95028c2e514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интересные даты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интересные даты"
+            }
+          },
+          {
+            "id": "aeb5d6c8492ca1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Реакция жителей разных стран на начало ПМВ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Реакция жителей разных стран на начало ПМВ"
+            }
+          },
+          {
+            "id": "036af36c1d94a63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интересные даты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интересные даты"
+            }
+          },
+          {
+            "id": "4b1b594fcd387a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интересные даты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интересные даты"
+            }
+          },
+          {
+            "id": "9056960bee0f88fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интересные даты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интересные даты"
+            }
+          },
+          {
+            "id": "d14f5466ca7c93cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Потери СССР во время ВОВ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Потери СССР во время ВОВ"
+            }
+          },
+          {
+            "id": "15ddafc1e409b056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интересные даты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интересные даты"
+            }
+          },
+          {
+            "id": "7a8fd3a3d2aa7c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Альбрехт фон Валленштейн.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Альбрехт фон Валленштейн"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea58b3d139193ae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4e682f10ad2c31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b80c85c1c33d9ffd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "013578dea63db714",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:(.)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "276a55e9da70bbef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f89c61828153635a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0979410415056262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8acbd6ed29070df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Интересные даты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Интересные даты"
+            }
+          },
+          {
+            "id": "4ca461f565324836",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Иван Грозный.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Иван Грозный"
+            }
+          },
+          {
+            "id": "bd17dd00c4bb6c65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a7ab05d2165dbed1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Иван Грозный.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Иван Грозный"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "smart-random-note:Open Random Note from Search": false
+    }
+  },
+  "active": "036af36c1d94a63e",
+  "lastOpenFiles": [
+    "Сегрегация в США.md",
+    "Ку-Клукс-Клан и сегрегация в США.md",
+    "Реакция жителей разных стран на начало ПМВ.md",
+    "Интересные даты.md",
+    "Восточное Локарно Феликса Циеленса.md",
+    "Альбрехт фон Валленштейн.md",
+    "Сергей Уточкин.md",
+    "Степе Степанович.md",
+    "Андрей Боголюбский.md",
+    "Социалистическое движение в России.md",
+    "Русский экспедиционный корпус.md",
+    "Таллинский переход.md",
+    "Феодальная раздробленность.md",
+    "Чингисхан.md",
+    "Энтони Дженкинсон.md",
+    "Трофейное дело, Георгий Жуков.md",
+    "Кардинал Ришилье.md",
+    "Виват история.md",
+    "Потери СССР во время ВОВ.md",
+    "Акт о безоговорочной капитуляции Германии.md",
+    "Иосиф Виссарионович Сталин.md",
+    "Наполеон Бонапарт.md",
+    "Дело Лопухиных.md",
+    "Политическая деятельность А. П. Волынского.md",
+    "Почтовое сообщение России в XVII веке.md",
+    "Операции Великой Отечественной Войны.md",
+    "Без названия",
+    "Media/Картинки/Альбрехт фон Валленштайн.png",
+    "Media/Картинки/Степе Степанович — медиа 1.png",
+    "Media/Картинки/Плакат «Согласие».png",
+    "Media/Карты/Таллин — Кронштадт. Морская карта. Таллинский перход.png",
+    "Media/Картинки/Сергей Уточкин — медиа 1.png",
+    "Media/Карты/ИВМВ — стратегическая оборона советских вооруженных сил в июле–сентябре 1941 года.png",
+    "Media/Картинки/Генри Гюнтер — медиа 1.png",
+    "Media/Картинки/Джузеппе Гарибальди — медиа 1.png",
+    "Media/Картинки/Джузеппе Мадзини — медиа 1.png",
+    "Media/Картинки/Мата Хари — медиа 1.png",
+    "Media/Картинки",
+    "Media/Файлы",
+    "Media/Карты",
+    "Media"
+  ]
+}

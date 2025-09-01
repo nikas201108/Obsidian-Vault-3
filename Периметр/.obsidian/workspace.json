@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "14c02911ec94b529",
+    "type": "split",
+    "children": [
+      {
+        "id": "964f47c7b9d6e627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7fc05a6f8cfbe98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ХРЖЗ/ХРЖЗ/Середина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Середина"
+            }
+          },
+          {
+            "id": "bb13e8aa51a36ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ХРЖЗ/ХРЖЗ/Середина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Середина"
+            }
+          },
+          {
+            "id": "ab8ff500ddea2590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ХРЖЗ/ХРЖЗ/Середина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Середина"
+            }
+          },
+          {
+            "id": "52f3cfe3172e4ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EnglishVault/Перевод текстов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перевод текстов"
+            }
+          },
+          {
+            "id": "69eda16efac0e057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ХРЖЗ/ХРЖЗ/Темы/Влияние культурных факторов на хозяйство в Азии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Влияние культурных факторов на хозяйство в Азии"
+            }
+          },
+          {
+            "id": "d0c23ababda1c11b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — переход от платонической любви.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Бедная Лиза — переход от платонической любви"
+            }
+          },
+          {
+            "id": "37db755603fecdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ХРЖЗ/ХРЖЗ/Середина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Середина"
+            }
+          },
+          {
+            "id": "dbcf43d1ebe2830a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Журнал чтения/«Иосиф Виссарионович Сталин. Краткая биография».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "«Иосиф Виссарионович Сталин. Краткая биография»"
+            }
+          },
+          {
+            "id": "2aba65870312c9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ХРЖЗ/ХРЖЗ/Светское.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Светское"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa3768c42c0b62cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b73c699ad4f127d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4013f434eaa3b778",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "3a9420aa224c874b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Сторит",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "20183a43b2c3e2bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34028f6222ed8a1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "396aaed4516f4139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e36375346fea16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "57df6704c29edc68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "6f36c7ac348992f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b64f869ffff77867",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "2aba65870312c9b4",
+  "lastOpenFiles": [
+    "ХРЖЗ/ХРЖЗ/Середина.md",
+    "ХРЖЗ/ХРЖЗ/Светское.md",
+    "ХРЖЗ/ХРЖЗ/Духовное.md",
+    "ХРЖЗ/ХРЖЗ/Каннибализм и его проблемы.md",
+    "Dictionary/Филистер.md",
+    "Журнал чтения/«Иосиф Виссарионович Сталин. Краткая биография».md",
+    "Журнал чтения/А. Бхаргава «Грокаем алгоритмы».md",
+    "Журнал чтения/Прочитано.md",
+    "Журнал чтения/П. Этрилл «Финансы и бухгалтерский учёт».md",
+    "ХРЖЗ/ХРЖЗ/Темы/Эволюция.md",
+    "Без названия",
+    "ХРЖЗ/ХРЖЗ/В работе.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Порт-Артур и технологическая отсталость.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Чистый понедельник — переход от платонической любви.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — переход от платонической любви.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Влияние культурных факторов на хозяйство в Азии.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — предательство.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — убивающий азарт.md",
+    "ХРЖЗ/ХРЖЗ/Темы/СССР — феминизм.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — пережить дитя.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — любовь родителя к ребенку.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — любовь ребенка к родителю.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Бедная Лиза — любовь.md",
+    "Dreams/Сторителлинг и лидерские навыки.md",
+    "ХРЖЗ/ХРЖЗ/Темы/Чистый понедельник — дихотомия.md",
+    "EnglishVault/Перевод текстов.md",
+    "EnglishVault/Очередь слов.md",
+    "ХРЖЗ/ХРЖЗ/Алгебра/Темы",
+    "ХРЖЗ/ХРЖЗ/Алгебра/Новая папка",
+    "ХРЖЗ/ХРЖЗ/Алгебра",
+    "ХРЖЗ/ХРЖЗ/Новая папка"
+  ]
+}

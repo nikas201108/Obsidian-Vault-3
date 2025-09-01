@@ -1,0 +1,6 @@
+1. [[Cleft sentences]] 
+2. [[Inversion]] 
+3. [[Emphatic auxiliaries]] 
+4. [[Participle clauses]] 
+5. [[Causative]] 
+6. [[Repetitions]]                                                      

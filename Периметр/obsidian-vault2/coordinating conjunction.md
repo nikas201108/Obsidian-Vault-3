@@ -1,0 +1,1 @@
+(and, but, or, nor, for, yet, so)

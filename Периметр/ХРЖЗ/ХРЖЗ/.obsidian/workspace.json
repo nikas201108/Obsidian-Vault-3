@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "fafbdc8ac07142b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ea6f7eb4d7ce76a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeea8d0851240806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Духовное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Духовное"
+            }
+          },
+          {
+            "id": "907d7265066d5f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Дон Кихот — социальное расслоение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дон Кихот — социальное расслоение"
+            }
+          },
+          {
+            "id": "acc3f9dbd94ce725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "92ead1435b7e3ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия/Таблица.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Таблица"
+            }
+          },
+          {
+            "id": "61fc59107ab8dacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Темы/Порт-Артур и преступная халатность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Порт-Артур и преступная халатность"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31d81a9e298059bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "62f39f856b8001ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad4351bd72ba7f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6447a146847ffee5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "94bf394c53888d80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5b1d46edd8121a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c572c023f7edb775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc7d89ddcecbdf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Геометрия/Таблица.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Таблица"
+            }
+          },
+          {
+            "id": "fdd58b507ef1c963",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Геометрия/Таблица.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Таблица"
+            }
+          },
+          {
+            "id": "be20f1c208ca819a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b7f456b3a37e1caa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Темы/Порт-Артур и преступная халатность.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Порт-Артур и преступная халатность"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "61fc59107ab8dacd",
+  "lastOpenFiles": [
+    "Светское.md",
+    "Санчо Панса — социальное расслоение.md",
+    "Организация послевоенного устройства.md",
+    "На железной дороге — безразличие и смерть.md",
+    "Лепорелло — социальное расслоение.md",
+    "Карандышев.md",
+    "Духовное.md",
+    "Середина.md",
+    "В работе.md",
+    "Без названия 1.md",
+    "Дон Кихот — социальное расслоение.md",
+    "Темы/СССР — феминизм.md",
+    "Темы/Порт-Артур и настроение во время нападения японцев.md",
+    "Геометрия/Таблица.md",
+    "Геометрия/Замена.md",
+    "Геометрия/Теорема Вариньона.md",
+    "Геометрия/Радиус описанной окружности через теорему синусов.md",
+    "Алгебра",
+    "Факторы войны по Сталину.md",
+    "Дон Кихот — благодарность.md",
+    "Дополнительно/Санчо Панса.md",
+    "Дополнительно/Дон Кихот.md",
+    "Дополнительно",
+    "Дополнительно/Каннибализм и его проблемы.md",
+    "Темы/Перенос столицы Бразилии из Рио-де-Жанейро в Бразилиа.md",
+    "Темы/Остап Бендер.md",
+    "Темы/Порт-Артур и технологическая отсталость.md",
+    "Темы/Степан-Балбес и заточение Ариной Петровной.md",
+    "Медиа/Сергей Васильевич Зубатов.jpeg",
+    "Сергей Васильевич Зубатов.png",
+    "Медиа/Альбрехт фон Валленштейн.png",
+    "Медиа/Теорема Вариньона — медиа 2.png",
+    "Медиа/Жуселин Кубичек.png",
+    "Медиа/Замена радиуса через диагональ.png",
+    "Медиа/Лусио Коста.png",
+    "Медиа/Жуселин Кубичек в Бразилиа.png",
+    "Медиа/Бразилиа.png",
+    "Темы",
+    "Медиа",
+    "Медиа/Радиус описанной окружности через теорему синусов.png",
+    "Геометрия"
+  ]
+}

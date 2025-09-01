@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "1ae3f85b9dadb586",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c29d77c7e361106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b4fb875f18390eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мьянма.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мьянма"
+            }
+          },
+          {
+            "id": "2e9e0573da120cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лосиный остров.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лосиный остров"
+            }
+          },
+          {
+            "id": "ada2a95ba46a260b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Марциальные воды.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Марциальные воды"
+            }
+          },
+          {
+            "id": "fa7edfaeac40ad6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мессинский пролив.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мессинский пролив"
+            }
+          },
+          {
+            "id": "fced148cac90d61e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оркнейские острова.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оркнейские острова"
+            }
+          },
+          {
+            "id": "0b677dfb0e7026eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Северная земля.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Северная земля"
+            }
+          },
+          {
+            "id": "ec6ca67db4f53c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Исландия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Исландия"
+            }
+          },
+          {
+            "id": "4bb5176703b54895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гебридские острова.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Гебридские острова"
+            }
+          },
+          {
+            "id": "9b87e39af09e85b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тирренское море.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тирренское море"
+            }
+          },
+          {
+            "id": "36f5c283c7c3ead6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Плещеево озеро.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Плещеево озеро"
+            }
+          },
+          {
+            "id": "6c83a462b0157f76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Плещеево озеро.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Плещеево озеро"
+            }
+          },
+          {
+            "id": "4a514983736e2b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Генуэзский залив.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Генуэзский залив"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cbc7895dad909d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d2506d209d5909d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4f66063e6e472a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "1826b25becacba18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Мьянма",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9ab6fbd467fd641d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3585d115b0348f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a93a572ddc02951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a93afa159eda4156",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мьянма.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Мьянма"
+            }
+          },
+          {
+            "id": "bbbb8ffa6014455c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Мьянма.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Мьянма"
+            }
+          },
+          {
+            "id": "0acec799a23b3043",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9c88eba7c9cd0021",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мьянма.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Мьянма"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "4a514983736e2b6e",
+  "lastOpenFiles": [
+    "Плещеево озеро.md",
+    "Генуэзский залив.md",
+    "Минусинская котловина.md",
+    "Тирренское море.md",
+    "Гебридские острова.md",
+    "Исландия.md",
+    "Марциальные воды.md",
+    "Медвежьи острова.md",
+    "Мессинский пролив.md",
+    "Мьянма.md",
+    "Оркнейские острова.md",
+    "Северная земля.md",
+    "Карты/Северная земля — медиа 1.png",
+    "Лосиный остров.md",
+    "Финляндия.md",
+    "Карты/Финляндия/Разделение экономики Финляндии.png",
+    "Карты/Финляндия/Области Финляндии.png",
+    "Карты/Финляндия/Агентства Финляндии.png",
+    "Карты/Финляндия/Разделение властей в Финляндии.png",
+    "Pasted image 20240701083912.png",
+    "Карты/Финляндия/Лаури Реландер.png",
+    "Карты/Финляндия/Кюёсти Каллио.png",
+    "Карты/Финляндия/Густав Маннергейм.png",
+    "Карты/Финляндия/Пер Эвинд Свинхувуд.png",
+    "Карты/Исландия",
+    "Карты/Мьянма",
+    "Карты/Финляндия",
+    "GeographyVault",
+    "Швейцария.md",
+    "Карты",
+    "Welcome.md"
+  ]
+}

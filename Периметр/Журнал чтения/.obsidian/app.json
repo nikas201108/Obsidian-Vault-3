@@ -1,0 +1,13 @@
+{
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 62
+  },
+  "promptDelete": false
+}

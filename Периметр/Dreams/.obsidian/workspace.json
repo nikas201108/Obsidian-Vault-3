@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "5289d28110ecda46",
+    "type": "split",
+    "children": [
+      {
+        "id": "b180e2cbdf9ab291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "724795d12c3a0a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Первобытная жизнь.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Первобытная жизнь"
+            }
+          },
+          {
+            "id": "d3ecf8b899282ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Антинаучные теории происхождении человека.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Антинаучные теории происхождении человека"
+            }
+          },
+          {
+            "id": "8b8a6dddd07e6a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Сон.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сон"
+            }
+          },
+          {
+            "id": "62da27a01bb39ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Антинаучные теории происхождении человека.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Антинаучные теории происхождении человека"
+            }
+          },
+          {
+            "id": "3d9118ebc0db9d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Дробышевский. Основа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Дробышевский. Основа"
+            }
+          },
+          {
+            "id": "03d3b88dfe24f9f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Эволюция тела.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Эволюция тела"
+            }
+          },
+          {
+            "id": "ab7f676f662cdb3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Геология.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Геология"
+            }
+          },
+          {
+            "id": "ab9e6c288917c337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Побединский и основа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Побединский и основа"
+            }
+          },
+          {
+            "id": "4d8f312e91f39ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Викинги на Руси.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Викинги на Руси"
+            }
+          },
+          {
+            "id": "acb82c0d09f95372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ограничение стоимости отдельных товаров.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ограничение стоимости отдельных товаров"
+            }
+          },
+          {
+            "id": "32d298c7512f82b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/Белые пятна эволюции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Белые пятна эволюции"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29f1ac64431d0eaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc607b5bd564cbbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aeb4226b47e033e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c1ab0759b47370fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Варенгар",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "93ab837d07bfdf27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bf1aaa5aed3a99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "45ccff1e9d161b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c9ff6763b4f92c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Сайты для дизайна.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Сайты для дизайна"
+            }
+          },
+          {
+            "id": "79b3557aa0ab7492",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Сайты для дизайна.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Сайты для дизайна"
+            }
+          },
+          {
+            "id": "e53dccdebde54a13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d3c2f5352b9ef525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Сайты для дизайна.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Сайты для дизайна"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "6aeb4226b47e033e",
+  "lastOpenFiles": [
+    "Ограничение стоимости отдельных товаров.md",
+    "Лекции/Белые пятна эволюции.md",
+    "Сторителлинг и лидерские навыки.md",
+    "Лекции/Основа. Фокусы мозга.md",
+    "Без названия",
+    "Лекции/Викинги на Руси.md",
+    "Операция «Чистые руки» и танджентополи.md",
+    "Николай 1.md",
+    "ПЛАНЫ.md",
+    "Создание реестров.md",
+    "Создание социальных счетов.md",
+    "Списание долга.md",
+    "Стремление к знаниям.md",
+    "ТАСС и важность информационных агенств.md",
+    "NIMBY.md",
+    "Endeavour Mining.md",
+    "British Petrolium.md",
+    "Часы и комбинированное производство.md",
+    "Сегрегация в США.md",
+    "Лекции/Побединский и основа.md",
+    "Сайты для дизайна.md",
+    "Происхождение некоторых слов.md",
+    "Отказ от доллара.md",
+    "Коррупция в богатых странах.md",
+    "Наказание для коллабрационистов.md",
+    "Нереалистичность бюджета.md",
+    "Детский кэшбек.md",
+    "Лекции",
+    "Ссылки",
+    "media",
+    "media/Pasted image 20240910182111.png"
+  ]
+}

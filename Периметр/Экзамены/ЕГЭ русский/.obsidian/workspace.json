@@ -1,0 +1,432 @@
+{
+  "main": {
+    "id": "567032001abcb5cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd7538ef77758f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c103cdf19c4d07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 задание"
+            }
+          },
+          {
+            "id": "ab6c70520380595b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 задание"
+            }
+          },
+          {
+            "id": "0d7f1762d32d7646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 задание"
+            }
+          },
+          {
+            "id": "7c0f8593f695bfee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12 задание"
+            }
+          },
+          {
+            "id": "c6650952183d8bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 задание"
+            }
+          },
+          {
+            "id": "9370be420d3be288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 задание"
+            }
+          },
+          {
+            "id": "5728f7f17215c8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 задание"
+            }
+          },
+          {
+            "id": "a115584c8fb20095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15 задание"
+            }
+          },
+          {
+            "id": "9ff708d234140409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Результаты/2024-09-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-02"
+            }
+          },
+          {
+            "id": "ad795d3cada5519c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16 задание"
+            }
+          },
+          {
+            "id": "04b20bb55178f7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18 задание"
+            }
+          },
+          {
+            "id": "9d77f75b68a73605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16 задание"
+            }
+          },
+          {
+            "id": "055e3fcdd1d541f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 задание"
+            }
+          },
+          {
+            "id": "3eaee08186e982f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структура и план.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Структура и план"
+            }
+          },
+          {
+            "id": "20e83945391348a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "18 задание"
+            }
+          },
+          {
+            "id": "fb893702d4041afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 задание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 задание"
+            }
+          },
+          {
+            "id": "7df8b71e34584638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задание 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задание 3"
+            }
+          }
+        ],
+        "currentTab": 16
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a0ab91c358fdcde",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca1d95b9f6c379c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8abf97cf4bb15e47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "7127ebbbf00b7767",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "18 задание",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "89885a3a8653c3d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44dbf4dc644e22ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e514f24c1ee0189d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbae63795d370de4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11 задание.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 11 задание"
+            }
+          },
+          {
+            "id": "6590593772ef82b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "11 задание.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 11 задание"
+            }
+          },
+          {
+            "id": "a458d33c078c9749",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6aff908b1ed99761",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "11 задание.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура 11 задание"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7df8b71e34584638",
+  "lastOpenFiles": [
+    "2 задание.md",
+    "Задание 3.md",
+    "4 задание.md",
+    "1 задание.md",
+    "Структура и план.md",
+    "Центр психологической подготовки.md",
+    "16 задание.md",
+    "22 задание.md",
+    "Весёлые случаи безударных гласных в корне, проверяемых ударением.md",
+    "26 задание.md",
+    "Темы.md",
+    "17 задание.md",
+    "11 задание.md",
+    "12 задание.md",
+    "9 задание.md",
+    "10 задание.md",
+    "8 задание.md",
+    "7 задание.md",
+    "14 задание.md",
+    "5 задание.md",
+    "15 задание.md",
+    "18 задание.md",
+    "13 задание.md",
+    "6 задание.md",
+    "Результаты/2024-09-02.md",
+    "Media/Pasted image 20240902143051.png",
+    "Особое/10_exercise_1.py",
+    "Особое/10_exercise — копия.py",
+    "Особое/9_exercise — копия.py",
+    "Результаты",
+    "Особое/pronountaion.py",
+    "Особое/russian_exception_prichastie.py",
+    "Особое/10_exercise.py~",
+    "Особое/Без названия",
+    "Особое/10_exercise.py",
+    "Особое/Новый текстовый документ.txt",
+    "Media/Pasted image 20240705173521.png",
+    "Media/Без названия.md"
+  ]
+}

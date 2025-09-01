@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSize": 20,
+  "theme": "obsidian",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "custom-mermaid"
+  ],
+  "cssTheme": "Obsidian Nord"
+}

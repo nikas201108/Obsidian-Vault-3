@@ -1,0 +1,1 @@
+X Window System that is graphical subsystem. 

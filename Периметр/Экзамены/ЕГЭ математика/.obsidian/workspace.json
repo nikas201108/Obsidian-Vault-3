@@ -1,0 +1,563 @@
+{
+  "main": {
+    "id": "72b9189c6450240e",
+    "type": "split",
+    "children": [
+      {
+        "id": "560beddd5043a461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "000e3e04cef1aa5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 5"
+            }
+          },
+          {
+            "id": "8f7aa71accc486ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Четырехугольники. Задание 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Четырехугольники. Задание 1"
+            }
+          },
+          {
+            "id": "b77c52cede8aceba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Две стороны прямоугольного треугольника.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Две стороны прямоугольного треугольника"
+            }
+          },
+          {
+            "id": "3b14987642f8c5a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Параллелограмм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Параллелограмм"
+            }
+          },
+          {
+            "id": "04d15b892a775c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 2"
+            }
+          },
+          {
+            "id": "f2a0c8cce0bd6f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 5"
+            }
+          },
+          {
+            "id": "da3592b9c8f371aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Приведение к удобному основанию во время решение неравенств.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Приведение к удобному основанию во время решение неравенств"
+            }
+          },
+          {
+            "id": "9a4565470addb5cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 2"
+            }
+          },
+          {
+            "id": "e908b8dde41e2d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Теорема Менелая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теорема Менелая"
+            }
+          },
+          {
+            "id": "31123218bb23b96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 5"
+            }
+          },
+          {
+            "id": "c37b13bcf58d32b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Окружности. Задание 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Окружности. Задание 1"
+            }
+          },
+          {
+            "id": "603c3e8842c92579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Биссектриса и параллельная прямая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Биссектриса и параллельная прямая"
+            }
+          },
+          {
+            "id": "fac7fc193f534cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Площади треугольников.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Площади треугольников"
+            }
+          },
+          {
+            "id": "ec481784659be4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 4"
+            }
+          },
+          {
+            "id": "4dd5a8e4d6562ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Две стороны прямоугольного треугольника.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Две стороны прямоугольного треугольника"
+            }
+          },
+          {
+            "id": "86b13ddb05f9d078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Общие касательные к окружностям.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общие касательные к окружностям"
+            }
+          },
+          {
+            "id": "268209961a545855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 5"
+            }
+          },
+          {
+            "id": "211546157a57d3f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Общие касательные к окружностям.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Общие касательные к окружностям"
+            }
+          },
+          {
+            "id": "b38ea5bd0d5c63be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Теорема Менелая.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теорема Менелая"
+            }
+          },
+          {
+            "id": "36f9475f36b0db10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 6"
+            }
+          },
+          {
+            "id": "237a5ac1e3af8153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Расстояние от вершины до точки пересечения с окружностью.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Расстояние от вершины до точки пересечения с окружностью"
+            }
+          },
+          {
+            "id": "fe5e48810c6834fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Длина отрезка общей касательной двух окружностей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Длина отрезка общей касательной двух окружностей"
+            }
+          },
+          {
+            "id": "bc83a335290c52a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Длина отрезка общей касательной двух окружностей.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Длина отрезка общей касательной двух окружностей"
+            }
+          },
+          {
+            "id": "96d7e2c76caa3239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 8"
+            }
+          },
+          {
+            "id": "16b5d7f7d8259719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЕГЭ/Треугольники. Задание 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Треугольники. Задание 7"
+            }
+          },
+          {
+            "id": "cef61237e958e071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Геометрия (приемы)/Угол между биссектрисами треугольника.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Угол между биссектрисами треугольника"
+            }
+          }
+        ],
+        "currentTab": 25
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "551ed2ade486d05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8005730acb9086a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d006fbb3ca1024",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "96149de1a2520f67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Геометрия (приемы)\"  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7435f4500066947a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f49df11974aea253",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6160ab35cea1ce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ff353c5fa19f149",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Геометрия/Около остроугольного треугольника ABC с различными сторонами описали окружность….md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Около остроугольного треугольника ABC с различными сторонами описали окружность…"
+            }
+          },
+          {
+            "id": "fd975554d59579ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Геометрия/Около остроугольного треугольника ABC с различными сторонами описали окружность….md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Около остроугольного треугольника ABC с различными сторонами описали окружность…"
+            }
+          },
+          {
+            "id": "4cdacd3a5e609c0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "975a4a6d1647ced7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Геометрия/Около остроугольного треугольника ABC с различными сторонами описали окружность….md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Около остроугольного треугольника ABC с различными сторонами описали окружность…"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "cef61237e958e071",
+  "lastOpenFiles": [
+    "ЕГЭ/Треугольники. Задание 7.md",
+    "ЕГЭ/Треугольники. Задание 8.md",
+    "ЕГЭ/Четырехугольники. Задание 1.md",
+    "Геометрия (приемы)/Теорема Менелая.md",
+    "Геометрия (приемы)/Расстояние от вершины до точки пересечения с окружностью.md",
+    "Геометрия (приемы)/Теорема об углах с перпендикулярными сторонами.md",
+    "Геометрия (приемы)/Отношение в прямоугольном треугольнике при проведении высоты к гипотенузе.md",
+    "Геометрия (приемы)/Касательные, образующие стороны.md",
+    "Медиа/Pasted image 20250612131633.png",
+    "Медиа/Pasted image 20250612131524.png",
+    "Геометрия (приемы)/Длина отрезка общей касательной двух окружностей.md",
+    "Геометрия (приемы)/Обратная теорема Фалеса.md",
+    "Геометрия (приемы)/Параллелограмм.md",
+    "Геометрия (приемы)/Равнобедренные и равные треугольники, образованные медианой из прямого угла прямоугольного треугольника.md",
+    "Геометрия (приемы)/Теорема Стюарта.md",
+    "ЕГЭ/Треугольники. Задание 4.md",
+    "Медиа/Pasted image 20250610182640.png",
+    "Медиа/Pasted image 20250524221958.png",
+    "Геометрия (приемы)/Площадь прямоугольного треугольника через касательные гипотенузы.md",
+    "Геометрия (приемы)/Площади треугольников.md",
+    "Геометрия (приемы)/Общие касательные к окружностям.md",
+    "Геометрия (приемы)/Две стороны прямоугольного треугольника.md",
+    "Геометрия (приемы)/Если в вписанном треугольнике сторона R, то мы можем найти синус противолежащего угла.md",
+    "Геометрия (приемы)/Биссектриса и параллельная прямая.md",
+    "Геометрия (приемы)/Две окружности и параллельные прямые.md",
+    "Геометрия (приемы)/Угол между биссектрисами треугольника.md",
+    "Геометрия (приемы)/Углы, образованные двумя общим касательными двух окружностей.md",
+    "Заметки/Площадь четырёхугольника.md",
+    "ЕГЭ/Окружности. Задание 1.md",
+    "Медиа/Pasted image 20250524215806.png",
+    "Медиа/Pasted image 20250516214038.png",
+    "Медиа/Pasted image 20250514215553.png",
+    "Медиа/Pasted image 20250513224423.png",
+    "Медиа/Pasted image 20250513075021.png",
+    "Медиа/photo_2025-05-12_08-30-08.jpg",
+    "Без названия",
+    "Медиа/Задание 3.pdf",
+    "Геометрия (приемы)",
+    "ЕГЭ",
+    "Медиа",
+    "Заметки"
+  ]
+}

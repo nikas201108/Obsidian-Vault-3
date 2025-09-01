@@ -1,0 +1,1 @@
+https://en.wikibooks.org/wiki/Windows_Batch_Scripting#Environment_variables

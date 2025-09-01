@@ -1,0 +1,345 @@
+{
+  "main": {
+    "id": "2c3c0c9080c69730",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2139c6297d19d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e97ed82ee0e31a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "А. Пушкин «Капитанская дочка».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "А. Пушкин «Капитанская дочка»"
+            }
+          },
+          {
+            "id": "589b348de1eb1387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вырезки/Борис Годунов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Борис Годунов"
+            }
+          },
+          {
+            "id": "83d2007ce28fd113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "А. Пушкин «Капитанская дочка».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "А. Пушкин «Капитанская дочка»"
+            }
+          },
+          {
+            "id": "6a847cdda269a41b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Д. Лихачёв Письма о добром и прекрасном.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Д. Лихачёв Письма о добром и прекрасном"
+            }
+          },
+          {
+            "id": "d6ab4d391c9651f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Д. Лихачёв «Письма о добром и прекрасном».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Д. Лихачёв «Письма о добром и прекрасном»"
+            }
+          },
+          {
+            "id": "8792b925195bf95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Л. Толстой «Война и мир».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Л. Толстой «Война и мир»"
+            }
+          },
+          {
+            "id": "748be0424ac84ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Л. Толстой «Война и мир».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Л. Толстой «Война и мир»"
+            }
+          },
+          {
+            "id": "2b2c3a025bbaa817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Прочитано.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Прочитано"
+            }
+          },
+          {
+            "id": "8b3f23bd44f1625e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Н. Чернышевский «Что делать».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Н. Чернышевский «Что делать»"
+            }
+          },
+          {
+            "id": "b0cb730e7222089c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C. Акбаров «Математический анализ без пробелов».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C. Акбаров «Математический анализ без пробелов»"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "519776f28007728e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2048edde13aac25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e92ff465d82991",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "40e9d9de623f2d4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Физика ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2aacc58c057f20a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "right": {
+    "id": "ac324051fc48ca91",
+    "type": "split",
+    "children": [
+      {
+        "id": "815a916a8c525aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb3656e2fd72237a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "И. Гончаров «Обломов».md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для И. Гончаров «Обломов»"
+            }
+          },
+          {
+            "id": "546751566480064c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "А. Чехов «Крыжовник».md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из А. Чехов «Крыжовник»"
+            }
+          },
+          {
+            "id": "ba20339cac5af127",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b48c1a8a095dff8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C. Акбаров «Математический анализ без пробелов».md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура C. Акбаров «Математический анализ без пробелов»"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b0cb730e7222089c",
+  "lastOpenFiles": [
+    "А. Степанов «Порт-Артур».md",
+    "А. Чехов «Ионыч».md",
+    "В. Даль «Что значит досуг».md",
+    "А. Никонов «Физика и астрофизика».md",
+    "Прочитано.md",
+    "А. Орлов «История России».md",
+    "Н. Чернышевский «Что делать».md",
+    "А. Пушкин «Борис Годунов».md",
+    "Д. Лондон «Белый клык».md",
+    "М. Салтыков-Щедрин «Господа Головлевы».md",
+    "«Иосиф Виссарионович Сталин. Краткая биография».md",
+    "Л. Толстой «Война и мир».md",
+    "Б. Любанович «Простой Python. Современный стиль программирования. 2-е изд.».md",
+    "Д. Оруэлл Скотный двор.md",
+    "В. Мединский «Война. Герои и подвиги. 1941-1945».md",
+    "С. Кубрик «Тропы славы».md",
+    "Без названия.md",
+    "Н. Островский «Как закалялась сталь».md",
+    "А. Пушкин «Капитанская дочка».md",
+    "Д. Лихачёв «Письма о добром и прекрасном».md",
+    "Media/Б. Любанович «Простой Python. Современный стиль программирования. 2-е изд.» — медиа 1.png",
+    "Ф.  Достоевсксий «Преступление и наказание».md",
+    "И. Гончаров «Обломов».md",
+    "П. Чехов «Тоска».md",
+    "А. Бхаргава «Грокаем алгоритмы».md",
+    "Г. Перри «Программирование на C для начинающих».md",
+    "Г. Жуков «Воспоминания и размышления».md",
+    "Архивные черновики",
+    "Книги/А. Бхаргава «Грокаем алгоритмы».pdf",
+    "Вырезки",
+    "Media/Правители Древней Руси.html",
+    "Media/Гумилев — медиа 1.png",
+    "Media/Pasted image 20240726153838.png",
+    "Media/Диаграмма Герцшпрунга. Физика и астрофизика. А. Никонов. — медиа 1.png",
+    "Media/Pasted image 20240530142335.png",
+    "Media/Pasted image 20240621090912.png",
+    "ChatGPT_MD/chats",
+    "ChatGPT_MD",
+    "Media/Pasted image 20240703100600.png",
+    "Media/Pasted image 20240625182705.png",
+    "Media/Правители Древней Руси.png",
+    "Media/Pasted image 20240726134043.png",
+    "Media/Диаграмма без названия.drawio.html",
+    "Media/Диаграмма без названия.drawio 1.html",
+    "Книги/С. М. Львовский «Набор и вёрстка в системе LaTex».pdf",
+    "Книги/А. Диксит «Теория игр».pdf"
+  ]
+}

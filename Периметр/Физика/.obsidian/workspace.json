@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "92d0a55c3ac770fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae7a37c92b758b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b79a38b492f9cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Термодинамика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термодинамика"
+            }
+          },
+          {
+            "id": "aedffbde55102d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRAFT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT"
+            }
+          },
+          {
+            "id": "df111fbb0af59cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Биология/Зарисовка статьи про структуру клетки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Зарисовка статьи про структуру клетки"
+            }
+          },
+          {
+            "id": "2bb0456633ea64d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Альбедо.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Альбедо"
+            }
+          },
+          {
+            "id": "ad5ac07e3c412b92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Биология/Органические вещества.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Органические вещества"
+            }
+          },
+          {
+            "id": "19d198b0b227d221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Электростатика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Электростатика"
+            }
+          },
+          {
+            "id": "b9194822e670837a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Александр Сергеевич/КПД.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "КПД"
+            }
+          },
+          {
+            "id": "b830720e6e39fe60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Александр Сергеевич/Потенциал.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Потенциал"
+            }
+          },
+          {
+            "id": "7dacd7b4d6d8e12c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Динамика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Динамика"
+            }
+          },
+          {
+            "id": "d817c19418e17db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Термодинамика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Термодинамика"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17b2095df0c9acd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1272e2a8f3b753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "364caa2f6512c4cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ba529b868d0ec98e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cdfe3ad5e2bac4a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3b24b04df633252",
+    "type": "split",
+    "children": [
+      {
+        "id": "7efd43aded21e186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6cb26927cf176f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Термодинамика.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Термодинамика"
+            }
+          },
+          {
+            "id": "db18d41966e30f24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Соединения пружин.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Соединения пружин"
+            }
+          },
+          {
+            "id": "7e598ffab4c3ec27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f8d3ffe9d64d763d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Соединения пружин.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Соединения пружин"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d817c19418e17db5",
+  "lastOpenFiles": [
+    "Работа, мощность, энергия.md",
+    "Механика.md",
+    "Из занятий с Александром Сергеевичем.md",
+    "Альбедо.md",
+    "Динамика.md",
+    "ЕГЭ.md",
+    "Кинематика.md",
+    "Идеальные газы.md",
+    "Молекулярно-кинетическая теория.md",
+    "Термодинамика.md",
+    "Media/Pasted image 20250414225021.png",
+    "Статика.md",
+    "Физика. Введение.md",
+    "Электростатика.md",
+    "DRAFT.md",
+    "Александр Сергеевич/Потенциал.md",
+    "Александр Сергеевич/Первое начало термодинамики.md",
+    "Александр Сергеевич/КПД.md",
+    "Александр Сергеевич/Соединения пружин.md",
+    "Media/Pasted image 20250414224934.png",
+    "Media/Pasted image 20250414225002.png",
+    "Pasted image 20250414224956.png",
+    "Pasted image 20250302214554.png",
+    "Биология/Органические вещества.md",
+    "Биология/Зарисовка по эволюции.md",
+    "Биология/Зарисовка статьи про структуру клетки.md",
+    "Александр Сергеевич",
+    "Media/Механический принцип относительности Галилея — медиа 1.png",
+    "Химия/Атомы.md",
+    "2025-01-24.md",
+    "Химия/Органическая химия.md",
+    "Химия/Нафталин.md",
+    "Media/Органические вещества — медиа 1.png",
+    "Media/Молекулярно-кинетическая теория — медиа 3.png",
+    "Media/Молекулярно-кинетическая теория — медиа 1.png",
+    "Media/Молекулярно-кинетическая теория — медиа 2.png",
+    "Биология",
+    "Биология/Ученые",
+    "Химия",
+    "Media"
+  ]
+}

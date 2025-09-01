@@ -1,0 +1,1 @@
+That is programs, which runs as background process(httpd, ftpd, dhcpd)

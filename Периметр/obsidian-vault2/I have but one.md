@@ -1,0 +1,2 @@
+#English
+I have but one = to  be/have the only one

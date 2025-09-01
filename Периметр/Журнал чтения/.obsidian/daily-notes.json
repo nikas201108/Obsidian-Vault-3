@@ -1,0 +1,5 @@
+{
+  "folder": "Отчёты",
+  "template": "Шаблоны/Отчёт от {{date}}",
+  "format": "Отчёт от YYYY-MM-DD"
+}
