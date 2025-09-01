@@ -1,24 +1,29 @@
 {
 	"nodes":[
-		{"id":"783cedc66654619d","type":"file","file":"ТС/10-08-25.md","x":-420,"y":-120,"width":420,"height":220},
-		{"id":"39d7726dae8475e9","type":"text","text":"Вписанный прямой угол","x":-40,"y":-320,"width":393,"height":60,"color":"3"},
-		{"id":"f260c459f317ec28","type":"text","text":"Информация о Семёне","x":-40,"y":280,"width":393,"height":60,"color":"2"},
-		{"id":"47c8fd1811cd0fc2","type":"file","file":"ТС/11-08-25.md","x":353,"y":-180,"width":400,"height":400},
-		{"id":"94ce28ef058ab0c4","type":"file","file":"ТС/12-08-25.md","x":1200,"y":-260,"width":400,"height":400},
-		{"id":"a5b710a15a96c9fb","type":"text","text":"Олимпиадный курс","x":1720,"y":-560,"width":250,"height":50,"color":"#db0f0f"},
-		{"id":"619261584408b26a","type":"file","file":"ТС/24-08-25.md","x":2180,"y":-177,"width":400,"height":235},
-		{"id":"3f293d3c133680ff","type":"text","text":"Стоит очень внимательно слушать специалистов. Можно пойти на лесть и дополнительную работу ради ценного опыта\n","x":2434,"y":260,"width":506,"height":60,"color":"2"},
-		{"id":"f508f3fd45db542a","type":"text","text":"Отчетность каждый час","x":2455,"y":-440,"width":250,"height":50,"color":"#db0f0f"},
-		{"id":"3166bfce26636d46","x":3080,"y":-260,"width":520,"height":460,"type":"file","file":"ТС/25-08-25.md"}
+		{"id":"b3c1d7e9f4d41814","type":"group","x":-2360,"y":-2160,"width":4060,"height":940,"label":"Бета Пси Омега "},
+		{"id":"b365208a9e8c2856","type":"group","x":-2360,"y":-1080,"width":4060,"height":940,"label":"Бета Омега Альфа"},
+		{"id":"783cedc66654619d","type":"file","file":"ТС/Архив/10-08-25.md","x":-2340,"y":-1700,"width":420,"height":220},
+		{"id":"a5b710a15a96c9fb","type":"text","text":"Олимпиадный курс","x":-200,"y":-2140,"width":250,"height":50,"color":"#db0f0f"},
+		{"id":"619261584408b26a","type":"file","file":"ТС/Архив/24-08-25.md","x":260,"y":-1757,"width":400,"height":235},
+		{"id":"f508f3fd45db542a","type":"text","text":"Отчетность каждый час","x":535,"y":-2020,"width":250,"height":50,"color":"#db0f0f"},
+		{"id":"3166bfce26636d46","type":"file","file":"ТС/Архив/25-08-25.md","x":1160,"y":-1840,"width":520,"height":460},
+		{"id":"0cd46bbf5b75c2af","type":"text","text":"Начало пути","x":-2340,"y":-620,"width":280,"height":60,"color":"#f00000"},
+		{"id":"39d7726dae8475e9","type":"text","text":"Вписанный прямой угол","x":-1960,"y":-1900,"width":393,"height":60,"color":"3"},
+		{"id":"47c8fd1811cd0fc2","type":"file","file":"ТС/Архив/11-08-25.md","x":-1567,"y":-1760,"width":400,"height":400},
+		{"id":"94ce28ef058ab0c4","type":"file","file":"ТС/Архив/12-08-25.md","x":-720,"y":-1840,"width":400,"height":400},
+		{"id":"30ac22a393e2f9c1","type":"text","text":"Принцип участия","x":-1980,"y":-380,"width":300,"height":60},
+		{"id":"efe0556c0317af8e","type":"text","text":"Принцип полезности","x":-1980,"y":-240,"width":300,"height":60},
+		{"id":"f1278b312cfb5603","type":"text","text":"Принцип конфликтности","x":-1980,"y":-1040,"width":300,"height":60},
+		{"id":"364a17e9ee1f9655","type":"text","text":"Принцип защиты","x":-1980,"y":-920,"width":300,"height":60},
+		{"id":"ad66f404f8626ab7","type":"text","text":"Принцип напора","x":-1980,"y":-800,"width":300,"height":60},
+		{"id":"5b037c01b25463ff","type":"text","text":"Принцип улучшения","x":-1980,"y":-500,"width":300,"height":60}
 	],
 	"edges":[
 		{"id":"579c00e3b0e665d7","fromNode":"783cedc66654619d","fromSide":"top","toNode":"39d7726dae8475e9","toSide":"left","color":"3"},
-		{"id":"2a28c263ed4810cb","fromNode":"783cedc66654619d","fromSide":"bottom","toNode":"f260c459f317ec28","toSide":"left","color":"2"},
 		{"id":"08322ab4a91681ef","fromNode":"783cedc66654619d","fromSide":"right","toNode":"47c8fd1811cd0fc2","toSide":"left"},
 		{"id":"b14d64686b77aad6","fromNode":"47c8fd1811cd0fc2","fromSide":"right","toNode":"94ce28ef058ab0c4","toSide":"left"},
 		{"id":"1ed09bc4a09f754d","fromNode":"94ce28ef058ab0c4","fromSide":"top","toNode":"a5b710a15a96c9fb","toSide":"left"},
 		{"id":"dc75c42e1f2a4581","fromNode":"94ce28ef058ab0c4","fromSide":"right","toNode":"619261584408b26a","toSide":"left"},
-		{"id":"12956c67aa7b566b","fromNode":"619261584408b26a","fromSide":"bottom","toNode":"3f293d3c133680ff","toSide":"left"},
 		{"id":"bc19d3b59b662cfb","fromNode":"619261584408b26a","fromSide":"top","toNode":"f508f3fd45db542a","toSide":"left"},
 		{"id":"0f1978e24920a1af","fromNode":"619261584408b26a","fromSide":"right","toNode":"3166bfce26636d46","toSide":"left"}
 	]
