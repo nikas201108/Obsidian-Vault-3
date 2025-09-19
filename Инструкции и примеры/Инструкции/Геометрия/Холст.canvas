@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"4dd244d80519a020","type":"group","x":2600,"y":460,"width":660,"height":1060,"label":"Высота к гипотенузе"},
+		{"id":"6264f1fd9119bc9a","type":"file","file":"Инструкции и примеры/Инструкции/Геометрия/Векторный способ.md","x":-500,"y":0,"width":540,"height":360},
+		{"id":"62c86f7021e8faa0","type":"text","text":"Нетривиальные углы между отрезками","x":-1060,"y":-180,"width":400,"height":60,"color":"2"},
+		{"id":"779366d7735e030b","type":"text","text":"Расстояние между точкой и прямой","x":-1060,"y":560,"width":400,"height":60,"color":"2"},
+		{"id":"1505c40312bec3db","type":"text","text":"Задачи с прямоугольниками, прямоугольными треугольниками и фигурами, где легко провести оси","x":-1060,"y":125,"width":400,"height":110,"color":"2"},
+		{"id":"2704b0aa2ccdadda","type":"file","file":"Инструкции и примеры/Инструкции/Геометрия/Прямоугольный треугольник.md","x":880,"y":0,"width":540,"height":360},
+		{"id":"1a32bc594d3d41c2","type":"text","text":"Если в прямоугольном треугольнике дано два элемента: сторона, угол, высота к гипотенузе, — то треугольник можно полностью восстановить","x":1740,"y":-440,"width":535,"height":120,"color":"2"},
+		{"id":"b854e3970ca0126d","type":"text","text":"Работа с углами: введение $\\alpha$ и $\\beta$","x":1740,"y":-160,"width":535,"height":120,"color":"2"},
+		{"id":"a562c5ec2d6a8392","type":"file","file":"Периметр/Геометрия/Высота к гипотенузе и возникающие отношения.md","x":2640,"y":1100,"width":535,"height":400,"color":"2"},
+		{"id":"faaf652da7e32f0e","type":"file","file":"Периметр/Геометрия/Высота к гипотенузе в прямоугольном треугольнике.md","x":2640,"y":500,"width":535,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"a980d29e26ab6f89","fromNode":"6264f1fd9119bc9a","fromSide":"left","toNode":"62c86f7021e8faa0","toSide":"right"},
+		{"id":"ae183f4d8cbb2740","fromNode":"6264f1fd9119bc9a","fromSide":"left","toNode":"779366d7735e030b","toSide":"right"},
+		{"id":"1c4d46f36e946e3b","fromNode":"6264f1fd9119bc9a","fromSide":"left","toNode":"1505c40312bec3db","toSide":"right"},
+		{"id":"163b74dada1cbccb","fromNode":"2704b0aa2ccdadda","fromSide":"right","toNode":"a562c5ec2d6a8392","toSide":"left"},
+		{"id":"4a213387b4b7c244","fromNode":"2704b0aa2ccdadda","fromSide":"right","toNode":"1a32bc594d3d41c2","toSide":"left"},
+		{"id":"d1d0176097b4b523","fromNode":"2704b0aa2ccdadda","fromSide":"right","toNode":"b854e3970ca0126d","toSide":"left"},
+		{"id":"482c33264fc825d1","fromNode":"2704b0aa2ccdadda","fromSide":"right","toNode":"faaf652da7e32f0e","toSide":"left"}
+	]
+}

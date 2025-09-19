@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"4243164b70cabaa1","type":"group","x":1760,"y":720,"width":1440,"height":1120,"label":"Общество"},
+		{"id":"5a3f3da7bc2ce66f","type":"group","x":1910,"y":2140,"width":490,"height":660,"label":"Черты характера"},
+		{"id":"5d857aa493d4dbba","type":"file","file":"Инструкции и примеры/Литература, примеры/Александр Андреевич Чацкий.md","x":-700,"y":1360,"width":1140,"height":540,"color":"4"},
+		{"id":"937c7e7dbeda1521","type":"text","text":"Борец с закостенелостью общественных нравов","x":1940,"y":1680,"width":440,"height":80,"color":"6"},
+		{"id":"c8d251266bff57b5","type":"file","file":"Инструкции и примеры/Литература, примеры/Перо и меч.md","x":1940,"y":980,"width":430,"height":100,"color":"6"},
+		{"id":"e4699c75823a9947","type":"text","text":"Лишний человек. Передовый человек, чье время ещё не пришло","x":1930,"y":1360,"width":440,"height":80,"color":"6"},
+		{"id":"468c9c928e40451e","type":"text","text":"Крепостное право","x":-3200,"y":1605,"width":330,"height":50,"color":"6"},
+		{"id":"6d10900563681060","type":"file","file":"Инструкции и примеры/Литература, примеры/Алексей Степанович Молчалин.md","x":-700,"y":2200,"width":1140,"height":540,"color":"3"},
+		{"id":"6f75353f6f191e54","type":"text","text":"Максимализм и радикализм","x":1940,"y":2160,"width":440,"height":80,"color":"6"},
+		{"id":"e7e94baff81b5d21","type":"text","text":"Лизоблюдство","x":2660,"y":1680,"width":440,"height":80,"color":"6"},
+		{"id":"750fb8f5c0cf5563","type":"text","text":"Вероломство","x":1935,"y":2430,"width":440,"height":80,"color":"6"},
+		{"id":"1c0fc48c57b4fa65","type":"text","text":"Трусость","x":1930,"y":2660,"width":440,"height":80,"color":"6"},
+		{"id":"8e40d0a4f7e5f838","x":-700,"y":2920,"width":1140,"height":400,"color":"3","type":"file","file":"Инструкции и примеры/Литература, примеры/Репетилов.md"},
+		{"id":"fd62a40165e159f7","x":-700,"y":3440,"width":250,"height":50,"color":"#f00000","type":"text","text":"Горич"},
+		{"id":"8c17cf0ddfd0ad34","type":"text","text":"Неудачливость","x":1935,"y":2920,"width":440,"height":60,"color":"6"},
+		{"id":"796bd43d2c275e01","type":"text","text":"Блюсти большое в малом","x":1935,"y":3260,"width":440,"height":60,"color":"6"},
+		{"id":"406840888d03a3c3","type":"file","file":"Инструкции и примеры/Литература, примеры/Горе от ума.md","x":-2280,"y":1360,"width":1140,"height":540}
+	],
+	"edges":[
+		{"id":"d27cb3909a87bc09","fromNode":"406840888d03a3c3","fromSide":"right","toNode":"5d857aa493d4dbba","toSide":"left"},
+		{"id":"d1312ec12a9bb6c1","fromNode":"5d857aa493d4dbba","fromSide":"right","toNode":"c8d251266bff57b5","toSide":"left"},
+		{"id":"71a54c88e898ea48","fromNode":"5d857aa493d4dbba","fromSide":"right","toNode":"e4699c75823a9947","toSide":"left"},
+		{"id":"d010ffbbf4dfefc4","fromNode":"5d857aa493d4dbba","fromSide":"right","toNode":"937c7e7dbeda1521","toSide":"left"},
+		{"id":"5d9b88f8bcc606be","fromNode":"406840888d03a3c3","fromSide":"left","toNode":"468c9c928e40451e","toSide":"right"},
+		{"id":"9e7943f817485f7c","fromNode":"406840888d03a3c3","fromSide":"right","toNode":"6d10900563681060","toSide":"left"},
+		{"id":"2fa18e3785e04d34","fromNode":"5d857aa493d4dbba","fromSide":"right","toNode":"6f75353f6f191e54","toSide":"left"},
+		{"id":"b030c72e8383368a","fromNode":"6d10900563681060","fromSide":"right","toNode":"750fb8f5c0cf5563","toSide":"left"},
+		{"id":"94e3290c21dde8a7","fromNode":"6d10900563681060","fromSide":"right","toNode":"1c0fc48c57b4fa65","toSide":"left"},
+		{"id":"72ff7cf1b1cf84d8","fromNode":"6d10900563681060","fromSide":"right","toNode":"e7e94baff81b5d21","toSide":"left"},
+		{"id":"363035f6234488a2","fromNode":"406840888d03a3c3","fromSide":"right","toNode":"fd62a40165e159f7","toSide":"left"},
+		{"id":"bdd2a19cd91c2b14","fromNode":"8e40d0a4f7e5f838","fromSide":"right","toNode":"8c17cf0ddfd0ad34","toSide":"left"},
+		{"id":"bafd32a41f1f53ba","fromNode":"8e40d0a4f7e5f838","fromSide":"right","toNode":"796bd43d2c275e01","toSide":"left"}
+	]
+}

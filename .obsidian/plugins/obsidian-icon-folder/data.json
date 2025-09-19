@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiStepForward",
-      "🐍",
-      "LiBuilding2",
-      "LiCode",
-      "LiPaintBucket"
+      "LiBookText",
+      "LiAtom",
+      "LiHeart",
+      "LiAlbum",
+      "LiSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -236,5 +236,19 @@
   "Периметр/Алгоритмы": {
     "iconName": "LiStepForward",
     "iconColor": "#766b6b"
+  },
+  "Инструкции и примеры/Инструкции/Математика/Извлечение квадратных и кубических корней.md": "LiSquare",
+  "Периметр/Английский": {
+    "iconName": "LiAlbum",
+    "iconColor": "#7ae510"
+  },
+  "Жизнь": {
+    "iconName": "LiHeart",
+    "iconColor": "#ff0000"
+  },
+  "Периметр/География/Исландия.md": "LiAtom",
+  "Инструкции и примеры/Литература, примеры": {
+    "iconName": "LiBookText",
+    "iconColor": "#ff0000"
   }
 }

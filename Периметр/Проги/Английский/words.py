@@ -367,6 +367,10 @@ word_groups = {
         "давно сложившаяся система": {"translations": ["edifice"], "examples": ["It looks as if the whole political edifice of the country is about to collapse"]},
         
     },
+
+    "Конфликт (отношения)": {
+        "Встать на сторону кого-то, выступать на стороне кого-то": {"translations": ["come down"], "examples": ["The government has come down on the side of military action."]},
+    },
     
     "Отказ, согласие, отрицание, подтверждение": {
         "отказывать": {"translations": ["refuse", "turn down"], "examples": ["She refused to see him", "I can't turn down the offer of a free trip to Milan!"]},
@@ -382,7 +386,8 @@ word_groups = {
         "кончать тем, что": {"translations": ["end up"], "examples": ["Much of this meat will probably end up as dog food"]}, 
         "продолжительный (нейтральный)": {"translations": ["prolonged", "lasting"], "examples": ["Prolonged exposure to the sun can cause skin cancer", "The reforms will bring lasting benefits"]}, 
         "затяжной": {"translations": ["protracted"], "examples": ["It was safer to let the Greeks grind each other down in a protracted conflict"]}, 
-        "проходит время": {"translations": ["go by"], "examples": ["Saturday afternoons go by like lightning!"]}, 
+        "проходит время": {"translations": ["go by"], "examples": ["Saturday afternoons go by like lightning!"]},
+        "Идти, развиваться (дела идут…)":  {"translations": ["go for"], "examples": ["Things have gone badly for him since his business collapsed"]},
 
     },
     
@@ -397,6 +402,12 @@ word_groups = {
     
     "Здания": {
         "Большое здание":  {"translations": ["edifice"], "examples": ["Their head office was an imposing edifice"]}, 
+    },
+
+     "Группа слов include, consist, contain": {
+        "Идти в дополнение, не полностью, не быть целой частью в чём-то": {"translations": ["include"], "examples": ["The bill includes tax and service"]},
+        "Содержать что-то, но не обязательно полностью состоять из": {"translations": ["contain"], "examples": ["Try to avoid foods which contain a lot of fat"]},
+        "Состоять из чего-то": {"translations": ["consist"], "examples": ["The team consists of four Europeans and two Americans"]},
     }
 }
 

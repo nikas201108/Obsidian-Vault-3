@@ -1,0 +1,1 @@
+\* when, as soon as, until, before содержат после себя present simple или present perfect

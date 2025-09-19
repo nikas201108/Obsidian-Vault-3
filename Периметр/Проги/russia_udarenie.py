@@ -397,28 +397,50 @@ words = list(set("""
 жерлО
 гофрирОванный
 предвосхИтить
-кормЯщий
-плодоносЯщий
-олигАрхия
-освЕдомить
-подрОстковый
-предвосхИтить
-премировАть
-приручЁнный
-плЕсневеть
-ретировАться
-третИровать
-ходАтайство
-ходАтайствовать
-шевелИшь
-щеголскИ
-олигАрхия
-оптОвый
-предвосхИтить
-премировАть 
 """.split("\n")))
 temp = []
 for x in range(70): 
+    print(x)
+    ind = random.randint(1, len(words)-1)
+    print(words[ind].lower())
+    if (word := input()) == words[ind]:
+        print("Ok")
+    elif word == "0":
+        temp[-1] = ""
+    else:
+        print("======")
+        print("Fail")
+        print(words[ind])
+        temp.append(words[ind])
+        print("======")
+
+while "" in temp:
+    temp.remove("")
+for x in temp:
+    print(x)
+
+
+import random
+
+words = list(set("""
+поодиночке
+по одному
+навынос
+что ж
+на ощупь
+вполсилы
+опрокинуть — про-приставка
+яслей
+безоговорочный
+забинтовывать  
+запечатлеть
+заведущий библиотекой
+наряду
+набок
+в свою очередь — фразеологизм
+""".split("\n")))
+temp = []
+for x in range(15): 
     print(x)
     ind = random.randint(1, len(words)-1)
     print(words[ind].lower())

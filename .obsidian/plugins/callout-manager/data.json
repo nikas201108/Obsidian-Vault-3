@@ -15,7 +15,9 @@
       "proof",
       "properties",
       "point",
-      "code"
+      "code",
+      "rule",
+      "suppoint"
     ],
     "settings": {
       "term": [
@@ -148,6 +150,22 @@
           "changes": {
             "icon": "remix-TerminalLine",
             "color": "161, 106, 73"
+          }
+        }
+      ],
+      "rule": [
+        {
+          "changes": {
+            "icon": "remix-FileExcelLine",
+            "color": "142, 236, 143"
+          }
+        }
+      ],
+      "suppoint": [
+        {
+          "changes": {
+            "icon": "remix-PlayFill",
+            "color": "128, 187, 255"
           }
         }
       ]
