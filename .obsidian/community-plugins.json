@@ -19,6 +19,6 @@
   "dataview",
   "obsidian-meta-bind-plugin",
   "js-engine",
-  "obsidian-image-toolkit",
-  "markdown-attributes"
+  "markdown-attributes",
+  "obsidian-image-toolkit"
 ]

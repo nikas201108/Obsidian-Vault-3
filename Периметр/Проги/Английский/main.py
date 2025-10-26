@@ -1,95 +1,71 @@
+# quiz.py
+
 import random
-from rich.console import Console
-from words import word_groups
-import os
+import re
+from vocabulary import common_words, special_words
 
-console = Console()
+def generate_forms(base_word):
+    """Генерирует возможные формы слова для замены."""
+    base = base_word.lower()
+    forms = {
+        base,
+        base + 's',
+        base + 'ed',
+        base + 'ing',
+    }
+    return forms
 
-def quiz_user(group):
-    words = list(group.keys())
-    selected_words = random.sample(words, min(7, len(words)))
+def hide_word_in_example(example, base_words):
+    """Заменяет все формы слов из base_words в примере на '_____'."""
+    all_forms = set()
+    for word in base_words:
+        all_forms.update(generate_forms(word.lower()))
     
-    score = 0
-    for word in selected_words:
-        user_translation = input(f"{word}\n").strip().lower()
-        correct_translations = [translation.lower() for translation in group[word]["translations"]]
-        l = 1
-        if user_translation in correct_translations:
-            console.print("Правильно!", style="bold green")
-            score += 1
-            if "examples" in group[word]:
-                for example in group[word]["examples"]:
-                    console.print(f"{l}. {example}", style="bold cyan")
-                    l += 1
-            elif "example" in group[word]:
-                print(f"{group[word]['example']}")
+    sorted_forms = sorted(all_forms, key=len, reverse=True)
+    text = example
+    for form in sorted_forms:
+        pattern = r'\b' + re.escape(form) + r'\b'
+        text = re.sub(pattern, '_____', text, flags=re.IGNORECASE)
+    return text
+
+def quiz():
+    # Подготавливаем общие слова (без метки)
+    common_items = [(defn, data, False) for defn, data in common_words.items()]
+    random.shuffle(common_items)
+    selected_common = common_items[:60]
+
+    # Подготавливаем специальные слова (с меткой True)
+    special_items = [(defn, data, True) for defn, data in special_words.items()]
+    random.shuffle(special_items)
+    selected_special = special_items[:20]
+
+    # Объединяем: сначала общие, потом специальные
+    all_items = selected_common + selected_special
+
+    correct = 0
+    total = len(all_items)
+
+    for definition, data, is_special in all_items:
+        prefix = "[СПЕЦ] " if is_special else ""
+        print(f"Определение: {prefix}{definition}")
+        print("Пример(ы):")
+        for ex in data["examples"]:
+            hidden_ex = hide_word_in_example(ex, data["translations"])
+            print(f"  - {hidden_ex}")
+
+        user_answer = input("Ваш ответ: ").strip().lower()
+        correct_answers = [ans.lower() for ans in data["translations"]]
+
+        if user_answer in correct_answers:
+            print("✅ Верно!\n")
+            correct += 1
         else:
-            console.print(f"Неправильно! {', '.join(correct_translations)}", style="bold red")
-            if "examples" in group[word]:
-                for example in group[word]["examples"]:
-                    console.print(f"{l}. {example}", style="bold cyan")
-                    l += 1
-            elif "example" in group[word]:
-                print(f"{group[word]['example']}")
-        print()
-    print(f"Вы набрали {score} из {len(selected_words)} в этой группе.\n")
+            print(f"❌ Неверно. Правильный ответ: {', '.join(data['translations'])}\n")
 
-def select_random_group(groups):
-    return random.choice(list(word_groups.keys()))
-    
-def main():
-    groups = list(word_groups.keys())
-    num_cycles = 10
-    
-    for cycle in range(num_cycles):
-        print("=============================")
-        print(f"\nЦикл {cycle + 1}/{num_cycles}:")
-        
-        # Выбираем случайную группу
-        selected_group = select_random_group(groups)
-        print(f"Группа: {selected_group}\n")
-        
-        # Запускаем тестирование для выбранной группы
-        quiz_user(word_groups[selected_group])
-        print("=============================")
-    print("Тестирование завершено!")
+    print(f"Тест завершён! Ваш результат: {correct} из {total}")
+    if total > 0:
+        percentage = (correct / total) * 100
+        print(f"Процент правильных ответов: {percentage:.1f}%")
 
-main()
-
-print("\n\n\n\n\n\n=================================================")
-category = random.choice(list(word_groups.keys()))
-words = [random.choice([list(x.values())[0] for x in word_groups[category].values()]) for x in range(8)] if len(word_groups[category]) >= 2 else [list(x.values())[0] for x in word_groups[category].values()]
-words = [item for sublist in words for item in sublist]
-message = f"""Создай тест из 10 предложений с пропусками для проверки знания английского языка. Каждое предложение должно содержать один пропуск, который нужно заполнить одним словом. Включите разные части речи (существительные, глаголы, прилагательные, наречия и т.д.) и различные времена глаголов. Также добавьте ответы в конце теста. Слова: {', '.join(words)}"""
-if random.randint(0, 1) == 0:
-    print(message)
-    for x in random.sample(words, 8):
-        print(x, end=", ")
-else:
-    element = random.choice(os.listdir(r'C:\Users\user\OneDrive\main-obsidian-vault-2\EnglishVault\Правила'))
-    print(f"Grammar: {element}")
-print()
-input()
-print("=================================================\n\n\n\n\n\n")
-
-
-maximums = (23, 17)
-choice = random.randint(1, 3)
-if choice == 1:
-    print("Synonyms: ", random.randint(1, maximums[0]))
-elif choice == 2:
-    print("Usage")
-else:
-    print("FNIf: ", random.randint(1, maximums[1]))
-    
-while True:
-    ls = os.listdir(r"C:\Users\user\OneDrive\main-obsidian-vault-2\EnglishVault\Правила")
-    name = random.choice(ls)
-    print(name)
-    if input() == "0":
-        break
-input()
-print("=================================================\n\n\n\n\n\n")
-
-
-input()
+if __name__ == "__main__":
+    quiz()

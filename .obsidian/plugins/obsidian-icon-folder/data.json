@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmClockCheck",
+      "LiCopyMinus",
+      "LiAlignCenterHorizontal",
       "LiBookText",
-      "LiAtom",
-      "LiHeart",
-      "LiAlbum",
-      "LiSquare"
+      "LiAtom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -140,10 +140,6 @@
     "iconName": "LiHash",
     "iconColor": "#00eeff"
   },
-  "Инструкции и примеры/Инструкции/Математика/Представление функций и многочленов удобным способом.md": {
-    "iconName": "LiFunctionSquare",
-    "iconColor": "#3cfbdb"
-  },
   "Инструкции и примеры/Инструкции": {
     "iconName": "LiBadgeInfo",
     "iconColor": "#ceedfd"
@@ -171,10 +167,6 @@
   "Теги/Программирование Инструменты Регулярные_выражения.md": {
     "iconName": "LiHash",
     "iconColor": "#00eeff"
-  },
-  "Инструкции и примеры/Инструкции/Математика/Все тригонометрические формулы.md": {
-    "iconName": "LiCircle",
-    "iconColor": "#a31f1f"
   },
   "Периметр": {
     "iconName": "LiEarth",
@@ -237,7 +229,6 @@
     "iconName": "LiStepForward",
     "iconColor": "#766b6b"
   },
-  "Инструкции и примеры/Инструкции/Математика/Извлечение квадратных и кубических корней.md": "LiSquare",
   "Периметр/Английский": {
     "iconName": "LiAlbum",
     "iconColor": "#7ae510"
@@ -250,5 +241,31 @@
   "Инструкции и примеры/Литература, примеры": {
     "iconName": "LiBookText",
     "iconColor": "#ff0000"
+  },
+  "Периметр/Физика": {
+    "iconName": "LiAlignCenterHorizontal",
+    "iconColor": "#34e6fe"
+  },
+  "Инструкции и примеры/Инструкции/Обороты в русском языке.md": "LiAtom",
+  "Инструкции и примеры/Инструкции/Алгебра/Извлечение квадратных и кубических корней.md": "LiSquare",
+  "Инструкции и примеры/Инструкции/Алгебра/Представление функций и многочленов удобным способом.md": {
+    "iconName": "LiFunctionSquare",
+    "iconColor": "#3cfbdb"
+  },
+  "Инструкции и примеры/Инструкции/Алгебра/Все тригонометрические формулы.md": {
+    "iconName": "LiCircle",
+    "iconColor": "#a31f1f"
+  },
+  "Инструкции и примеры/Инструкции/Алгебра/Оценка.md": {
+    "iconName": "LiCopyMinus",
+    "iconColor": "#2afa00"
+  },
+  "Периметр/Чтение": {
+    "iconName": "LiBookText",
+    "iconColor": "#ff6666"
+  },
+  "Освежаем.md": {
+    "iconName": "LiAlarmClockCheck",
+    "iconColor": "#0033ff"
   }
 }

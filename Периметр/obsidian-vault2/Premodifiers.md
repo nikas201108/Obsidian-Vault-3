@@ -1,7 +1,7 @@
 Premodifiers in [[English]] take the meaning role. It [[precede]] a noun and determine it more exactly([[specify]]). In some cases premodifier can transfer into [[Эпитет|epithet]].
 Premodifiers contain:
 1. [[Determiners]]. Determiners are special word, which has quantifying(how many?) and referring(what is?) functions. They include:
-	1. [[Articles]]: a/an, the
+	1. [[Периметр/EnglishVault/Правила/Articles]]: a/an, the
 	2. [[Demonstratives]]: this, that, these, those
 	3. [[Possessives]]: my, your, his, her, its, our, theirs, ’s
 	4. [[Квантификаторы|Quantifiries]]: many, both, any, more
