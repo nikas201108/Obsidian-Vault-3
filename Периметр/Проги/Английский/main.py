@@ -57,7 +57,8 @@ def quiz():
         correct_answers = [ans.lower() for ans in data["translations"]]
 
         if user_answer in correct_answers:
-            print("✅ Верно!\n")
+            print("✅ Верно!")
+            print(", ".join(correct_answers), "\n")
             correct += 1
         else:
             print(f"❌ Неверно. Правильный ответ: {', '.join(data['translations'])}\n")
