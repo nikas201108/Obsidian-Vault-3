@@ -2,7 +2,7 @@
   "cssTheme": "Obsidianite",
   "theme": "obsidian",
   "accentColor": "#ffd900",
-  "baseFontSize": 19,
+  "baseFontSize": 21,
   "baseFontSizeAction": true,
   "showRibbon": true,
   "enabledCssSnippets": [

@@ -4,11 +4,221 @@
     "type": "split",
     "children": [
       {
-        "id": "ef044abd6f294798",
+        "id": "a194c08f2ddf3ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "71d0ef4da23dffb8",
+            "id": "d032ed711dd8b508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/21-12-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21-12-2025"
+            }
+          },
+          {
+            "id": "80bf6257b85bae41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструкции и примеры/Инструкции/Ориентирование/Миллионная (десятикилометровая) карта.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Миллионная (десятикилометровая) карта"
+            }
+          },
+          {
+            "id": "ceece168575689a6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Инструкции и примеры/Литература, примеры/Карта.canvas",
+                "viewState": {
+                  "x": -3937.686868631526,
+                  "y": 5554.723089031831,
+                  "zoom": -0.7226480335599454
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Карта"
+            }
+          },
+          {
+            "id": "df0a9f49777fe03b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/Алгебра/НОД И НОК.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "НОД И НОК"
+            }
+          },
+          {
+            "id": "6bbbcf2446815848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/Алгебра/Простые множители.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Простые множители"
+            }
+          },
+          {
+            "id": "456bb1f9b9d67d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/22-12-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22-12-2025"
+            }
+          },
+          {
+            "id": "0357c7a67dee3ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/Python/Regex.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regex"
+            }
+          },
+          {
+            "id": "c1e36a25c6a9c6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/22-12-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22-12-2025"
+            }
+          },
+          {
+            "id": "7b9479b97af39d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/Несортировано/Социалистическое движение в России.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Социалистическое движение в России"
+            }
+          },
+          {
+            "id": "7ecdc0f19dcdcd26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/22-12-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22-12-2025"
+            }
+          },
+          {
+            "id": "27a6e931b1cf6fa4",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Сделано.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Сделано"
+            }
+          },
+          {
+            "id": "781e692a0d43ebf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ежедневные заметки/23-12-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23-12-2025"
+            }
+          },
+          {
+            "id": "255219f95e47e5e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/Алгебра/НОД И НОК.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "НОД И НОК"
+            }
+          },
+          {
+            "id": "0f4122347bca8760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Периметр/obsidian-vault2/Формулы LaTex.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Формулы LaTex"
+            }
+          },
+          {
+            "id": "be362a6aa473358f",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -22,6 +232,8 @@
                     false,
                     false,
                     false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -29,127 +241,9 @@
               "icon": "lucide-trello",
               "title": "Задачи"
             }
-          },
-          {
-            "id": "5bef54646758f87c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Периметр/Английский/Questions.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
-            }
-          },
-          {
-            "id": "8aaab50178d0c1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Инструкции и примеры/Инструкции/Английский/Вводные слова для устной речи.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вводные слова для устной речи"
-            }
-          },
-          {
-            "id": "14c9f30a38b3606b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневные заметки/04-11-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04-11-2025"
-            }
-          },
-          {
-            "id": "3da10a590bb8c4c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ежедневные заметки/05-11-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05-11-2025"
-            }
-          },
-          {
-            "id": "65ab5f161b8d6f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Периметр/Теория вероятностей и статистика/Вероятностная модель.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Вероятностная модель"
-            }
-          },
-          {
-            "id": "da5ffc50ce76a028",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Инструкции и примеры/Инструкции/Алгебра/Холст.canvas",
-                "viewState": {
-                  "x": 2724.761281869803,
-                  "y": 2406.6380699111464,
-                  "zoom": -1.2390751953084063
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Холст"
-            }
-          },
-          {
-            "id": "364ae8a83e1a7595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Периметр/EnglishVault/Правила/Used to.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Used to"
-            }
-          },
-          {
-            "id": "c3003cab86db59c2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ТС/ТС.canvas",
-                "viewState": {
-                  "x": -1651.289239799812,
-                  "y": 1175.5561768738085,
-                  "zoom": -0.5080110238323483
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ТС"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -181,7 +275,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Периметр/География/\" ",
+                "query": "font",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +300,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5026054382324
+    "width": 408.5
   },
   "right": {
     "id": "3edd76f513359394",
@@ -270,13 +364,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ежедневные заметки/29-10-2025.md",
+                "file": "Инструкции и примеры/Инструкции/Алгебра/Холст.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 29-10-2025"
+              "title": "Структура Холст"
             }
           }
         ],
@@ -291,9 +385,9 @@
     "hiddenItems": {
       "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
+      "daily-notes:Сегодняшняя заметка": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "workspaces:Пространства": false,
@@ -305,61 +399,61 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "da5ffc50ce76a028",
+  "active": "0f4122347bca8760",
   "lastOpenFiles": [
-    "Периметр/Теория вероятностей и статистика/Вероятностная модель.md",
-    "Ежедневные заметки/05-11-2025.md",
-    "Служебное/Banners/2025-11-05_14-21-30.png",
-    "Служебное/Banners/2025-11-05_11-21-30.png",
-    "Ежедневные заметки/04-11-2025.md",
-    "Служебное/Banners/2025-11-04_23-21-30.png",
-    "Служебное/Banners/2025-11-04_23-21-29.png",
-    "Служебное/Banners/2025-11-04_20-21-30.png",
-    "Служебное/Banners/2025-11-04_17-21-30.png",
-    "Служебное/Banners/2025-11-04_14-27-55.png",
-    "Служебное/Banners/2025-11-04_11-21-30.png",
-    "Периметр/Английский/Used to.md",
-    "Периметр/EnglishVault/Правила/Used to.md",
-    "ТС/ТС.canvas",
-    "Периметр/Английский/Future tenses.md",
-    "Инструкции и примеры/Инструкции/Английский/Правильно поставленная речь.md",
-    "Инструкции и примеры/Инструкции/Английский/Вводные слова для устной речи.md",
-    "ТС/03.11.2025.md",
-    "Служебное/Banners/2025-11-04_09-07-58.png",
-    "Ежедневные заметки/03-11-2025.md",
-    "Жизнь/Интеллектуальная карта.canvas",
-    "Служебное/Banners/2025-11-03_23-21-29.png",
-    "Периметр/Английский/Questions.md",
-    "Жизнь/Доверие команды.md",
-    "Инструкции и примеры/Инструкции/Геометрия/Ограничение задач на построение.md",
+    "Периметр/obsidian-vault2/LaTex.md",
+    "Периметр/obsidian-vault2/LaTex. Специальные типографские знаки.md",
+    "Периметр/obsidian-vault2/left и right в LaTex.md",
+    "Периметр/Алгебра/НОД И НОК.md",
+    "Периметр/obsidian-vault2/Специальные абзацы. LaTex.md",
+    "Периметр/obsidian-vault2/Списковые включения(list comprehension).md",
+    "Периметр/obsidian-vault2/НОД И НОК числа.md",
+    "Периметр/obsidian-vault2/Коммутативные диаграммы в LaTex.md",
+    "Периметр/obsidian-vault2/Группы в LaTex.md",
+    "Периметр/obsidian-vault2/Окружения LaTex.md",
+    "Периметр/obsidian-vault2/Формулы LaTex.md",
+    "Периметр/obsidian-vault2/Счетчики LaTex.md",
+    "Периметр/obsidian-vault2/Одно над другим LaTex.md",
+    "Инструкции и примеры/Инструкции/Ориентирование/Прямоугольные координаты.md",
+    "Ежедневные заметки/23-12-2025.md",
     "Инструкции и примеры/Инструкции/Геометрия/Холст.canvas",
-    "Инструкции и примеры/Инструкции/Геометрия/Без названия",
+    "Ежедневные заметки/22-12-2025.md",
+    "Инструкции и примеры/Инструкции/Алгебра/Расширенные формулы сокращенного умножения.md",
+    "Сделано.md",
     "Задачи.md",
-    "Периметр/Английский/Past tenses.md",
-    "Инструкции и примеры/Инструкции/Обороты в русском языке.md",
-    "Периметр/Алгебра/Неопределенные уравнения.md",
-    "Ежедневные заметки/01-11-2025.md",
-    "Главная страница.md",
-    "Освежаем.md",
-    "Ежедневные заметки/02-11-2025.md",
-    "Канбан.md",
-    "Шаблоны/Ежедневая заметка.md",
-    "Ежедневные заметки/30-10-2025.md",
-    "Периметр/Физика/Закон Стефана-Больцмана.md",
-    "Ежедневные заметки/26-10-2025.md",
-    "Инструкции и примеры/Инструкции/Алгебра/Холст.canvas",
-    "Периметр/Проги/Английский/__pycache__/vocabulary.cpython-310.pyc",
-    "Периметр/Проги/Английский/vocabulary.py",
-    "Инструкции и примеры/Литература, примеры/Карта.canvas",
+    "Периметр/Несортировано/Социалистическое движение в России.md",
+    "Периметр/Python/Regex.md",
     "Инструкции и примеры/Инструкции/Алгоритмы/Алгоритмы.canvas",
-    "Инструкции и примеры/Инструкции/Алгоритмы",
-    "Инструкции и примеры/Инструкции/Русский/Холст.canvas",
+    "Периметр/Python/Работа с бинарными данными.md",
+    "Периметр/Python/Процесс компиляции в Python.md",
+    "ТС/22.12.2025.md",
+    "Ежедневные заметки/21-12-2025.md",
+    "Ежедневные заметки/22-11-2025.md",
+    "Периметр/Алгебра/Медиа/Файлы/Метод неопределенных коэффициентов.pdf",
+    "Инструкции и примеры/Инструкции/Алгебра/Холст.canvas",
+    "Жизнь/Интеллектуальная карта.canvas",
+    "Инструкции и примеры/Литература, примеры/Карта.canvas",
+    "Инструкции и примеры/Инструкции/Ориентирование/Медиа/Прямоугольные координаты — медиа 1.png",
+    "Инструкции и примеры/Инструкции/Ориентирование/Медиа",
+    "ТС/ТС.canvas",
+    "Инструкции и примеры/Инструкции/Алгебра/Медиа/Pasted image 20251217231807.png",
+    "Инструкции и примеры/Инструкции/Алгебра/Медиа/Pasted image 20251217224449.png",
+    "ТС/Без названия",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа/Pasted image 20251216223652.png",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа/Pasted image 20251216222741.png",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа/Pasted image 20251216222733.png",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа/Pasted image 20251216222724.png",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа/Pasted image 20251216222714.png",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа/Pasted image 20251216222253.png",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа/Pasted image 20251216222246.png",
+    "Инструкции и примеры/Инструкции/Геометрия/Медиа",
+    "Периметр/Словарь",
     "Инструкции и примеры/Инструкции/Физика/Холст.canvas",
-    "Инструкции и примеры/Инструкции/Русский",
-    "Периметр/Проги/Английский/dict.py",
-    "Периметр/Чтение",
-    "Периметр/Физика/Медиа",
-    "Периметр/Физика",
-    "Инструкции и примеры/Инструкции/Физика"
+    "Периметр/Теория вероятностей, игр и статистика/Задачи/Медиа",
+    "Периметр/Теория вероятностей, игр и статистика/Медиа",
+    "Периметр/Теория вероятностей, игр и статистика/Задачи",
+    "Периметр/Алгебра/Медиа/Файлы/Решение кубических уравнений.pdf",
+    "ТС/Медиа",
+    "Инструкции и примеры/Инструкции/Русский/Холст.canvas"
   ]
 }

@@ -29,4 +29,4 @@ Until и отрицание в придаточной части эквивал�
 - Not until he reached home did he stop running (He didn't stop running, until he reached home)
 
 Не то, не то
-- I am not hungry, nor am I thirsty (I'm not hungry and I am not thirsty either)
+- I am not hungry, nor am I thirsty (I'm not hungry and I am not thirsty either) 

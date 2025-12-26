@@ -17,7 +17,8 @@
       "point",
       "code",
       "rule",
-      "suppoint"
+      "suppoint",
+      "solution"
     ],
     "settings": {
       "term": [
@@ -166,6 +167,14 @@
           "changes": {
             "icon": "remix-PlayFill",
             "color": "128, 187, 255"
+          }
+        }
+      ],
+      "solution": [
+        {
+          "changes": {
+            "icon": "lucide-check",
+            "color": "197, 234, 98"
           }
         }
       ]

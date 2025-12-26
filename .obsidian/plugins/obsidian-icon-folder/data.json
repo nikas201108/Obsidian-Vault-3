@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAlarmClockCheck",
-      "LiCopyMinus",
-      "LiAlignCenterHorizontal",
-      "LiBookText",
-      "LiAtom"
+      "LiWholeWord",
+      "2️⃣",
+      "LiActivity",
+      "LiAmpersand",
+      "LiAlarmClockCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -148,10 +148,6 @@
     "iconName": "LiIdCard",
     "iconColor": "#3ab2d9"
   },
-  "Канбан.md": {
-    "iconName": "LiAsteriskSquare",
-    "iconColor": "#c2b3b3"
-  },
   "ТС": {
     "iconName": "LiMail",
     "iconColor": "#df49da"
@@ -184,10 +180,6 @@
     "iconName": "LiTable",
     "iconColor": "#02c570"
   },
-  "Периметр/Теория вероятностей и статистика": {
-    "iconName": "LiDice",
-    "iconColor": "#baff24"
-  },
   "Периметр/Методы доказательства": {
     "iconName": "LiScale",
     "iconColor": "#24abff"
@@ -199,10 +191,6 @@
   "Периметр/География": {
     "iconName": "LiMountain",
     "iconColor": "#ecbd3c"
-  },
-  "Периметр/Флора и фауна": {
-    "iconName": "LiRabbit",
-    "iconColor": "#52ffd4"
   },
   "Периметр/История": {
     "iconName": "LiBookA",
@@ -264,8 +252,27 @@
     "iconName": "LiBookText",
     "iconColor": "#ff6666"
   },
-  "Освежаем.md": {
+  "Архив/Черный заслон/Освежаем.md": {
     "iconName": "LiAlarmClockCheck",
     "iconColor": "#0033ff"
+  },
+  "Архив/Черный заслон/Канбан.md": {
+    "iconName": "LiAsteriskSquare",
+    "iconColor": "#c2b3b3"
+  },
+  "Периметр/Теория вероятностей, игр и статистика": {
+    "iconName": "LiDice",
+    "iconColor": "#baff24"
+  },
+  "Задачи.md": "LiAmpersand",
+  "Сделано.md": "LiActivity",
+  "Периметр/Флора и фауна": {
+    "iconName": "LiRabbit",
+    "iconColor": "#52ffd4"
+  },
+  "Инструкции и примеры/Инструкции/Алгебра/Расширенные формулы сокращенного умножения.md": "2️⃣",
+  "Периметр/Словарь": {
+    "iconName": "LiWholeWord",
+    "iconColor": "#dfe17a"
   }
 }
